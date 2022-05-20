@@ -1,5 +1,5 @@
-2.2 La direttiva 2019/1024 (PSI) e il d.lgs. 200/2021 di recepimento [1]_
-=========================================================================
+2.2 La direttiva 2019/1024 (PSI) e il d.lgs. 200/2021 di recepimento [7]_
+====================================================================
 
 La direttiva 2019/1024 sul riuso dei dati prodotti dalla pubblica
 amministrazione (*Public Sector Information*) fornisce riferimenti che
@@ -46,7 +46,7 @@ musei, archivi e biblioteche, i quali *possono* richiedere il pagamento
 di tariffe superiori ai costi marginali al fine di poter acquisire un
 congruo utile sull’investimento pubblico richiesto per finanziare le
 attività di digitalizzazione, pur rimanendo liberi di non richiederne
-affatto [2]_. Gli Stati membri hanno perciò la facoltà di normare la
+affatto [8]_. Gli Stati membri hanno perciò la facoltà di normare la
 tariffazione in ordine alla cessione e/o il riutilizzo dei dati degli
 istituti di tutela.
 
@@ -55,27 +55,24 @@ Il decreto di recepimento della più recente direttiva PSI (d.lgs.
 mentre il decreto legislativo 18 maggio 2015, n. 102, che recepiva la
 precedente direttiva PSI, vincolava esplicitamente qualsiasi forma di
 riutilizzo commerciale dei dati di musei, archivi e biblioteche al
-pagamento di tariffe [3]_, il decreto attuale di recepimento si limita
+pagamento di tariffe [9]_, il decreto attuale di recepimento si limita
 invece a stabilire come mera eventualità l’imposizione di costi
 aggiuntivi, con un rinvio espresso alla disciplina sulle riproduzioni
-presente nel Codice dei beni culturali [4]_. Ciò, come si vedrà, ha
+presente nel Codice dei beni culturali [10]_. Ciò, come si vedrà, ha
 importanti riflessi sul piano delle licenze di rilascio delle immagini
 in rete da parte degli istituti culturali pubblici (cfr. cap. 4; 5).
 
-.. [1]
-    D.lgs. 200/2021 - Attuazione della direttiva (UE) 2019/1024 del
+.. [7] D.lgs. 200/2021 - Attuazione della direttiva (UE) 2019/1024 del
    Parlamento europeo e del Consiglio, del 20 giugno 2019, relativa
    all'apertura dei dati e al riutilizzo dell'informazione del settore
    pubblico.
 
-.. [2]
-    “I limiti massimi per i corrispettivi di cui alla presente direttiva
+.. [8] “I limiti massimi per i corrispettivi di cui alla presente direttiva
    non pregiudicano il diritto degli Stati membri di imporre costi
    inferiori o di non imporne affatto” (Direttiva 2019/1024,
    considerando 39).
 
-.. [3]
-    “La Direttiva 2013/37/UE è stata recepita in Italia con il d.lgs.
+.. [9] “La Direttiva 2013/37/UE è stata recepita in Italia con il d.lgs.
    102/2015, che ha aggiornato il d.lgs. 36/2006 di recepimento della
    prima Direttiva PSI del 2003. L'Italia ha così accolto il principio
    tariffario della normativa europea, precisando che musei, archivi e
@@ -88,8 +85,7 @@ in rete da parte degli istituti culturali pubblici (cfr. cap. 4; 5).
    normativi <http://www.aedon.mulino.it/archivio/2018/3/casini.htm>`__,
    in *Aedon*, 3, 2018).
 
-.. [4]
-    La nuova formulazione dell’art. 7 del d.lgs. n. 36/2006, rispetto
+.. [10] La nuova formulazione dell’art. 7 del d.lgs. n. 36/2006, rispetto
    alla precedente - e ben più restrittiva - formulazione introdotta dal
    d.lgs. 102/2015 di ricezione della direttiva 2013/37/UE, fa salva la
    facoltà per gli istituti di tutela di non richiedere alcun

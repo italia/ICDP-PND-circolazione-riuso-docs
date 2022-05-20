@@ -2,7 +2,7 @@
 ============================
 
 Mentre le licenze CC si prestano bene ad essere utilizzate per
-rilasciare immagini e contenuti coperti da diritto d’autore [1]_, il
+rilasciare immagini e contenuti coperti da diritto d’autore [41]_, il
 loro utilizzo non è adatto per le riproduzioni di beni culturali
 pubblici in pubblico dominio. Come s’è visto, la mera riproduzione di
 un’opera delle arti visive in pubblico dominio non può essere oggetto né
@@ -15,7 +15,7 @@ visive in pubblico dominio), l’etichetta PDM (*Public Domain Mark*)
 viceversa non sembra essere uno strumento adeguato a rappresentare i
 vincoli di matrice pubblicistica sulle riproduzioni di beni culturali
 pubblici in pubblico dominio previsti dal Codice dei beni
-culturali [2]_.
+culturali [42]_.
 
 Il ricorso a standard internazionali per il rilascio delle
 digitalizzazioni del patrimonio culturale è espressamente caldeggiato
@@ -32,7 +32,7 @@ Le dodici dichiarazioni sui diritti fornite dal consorzio
 internazionale, mettono a disposizione degli istituti di conservazione
 del patrimonio culturale uno strumento pensato per comunicare al
 pubblico l’eventuale sussistenza di diritti di riproduzione sugli
-oggetti digitalizzati [3]_. Le dichiarazioni di diritti sono state
+oggetti digitalizzati [43]_. Le dichiarazioni di diritti sono state
 progettate tenendo conto sia degli utenti umani che delle macchine
 (attraverso i motori di ricerca) facendo uso della tecnologia del web
 semantico. Esse offrono una soluzione agli istituti culturali che non
@@ -47,7 +47,7 @@ principali effetti di licenze o di strumenti che non risultano
 standardizzati a livello internazionale.
 
 In particolare la dichiarazione “NoC-OKLR: No Copyright-Other Known
-Legal Restrictions” (“NO COPYRIGHT-ALTRE RESTRIZIONI LEGALI NOTE”) [4]_
+Legal Restrictions” (“NO COPYRIGHT-ALTRE RESTRIZIONI LEGALI NOTE”) [44]_
 è l’unica compatibile con le norme di tutela italiane. Tale
 dichiarazione sta infatti a indicare che l’uso dell’immagine non è
 limitato dal diritto d'autore e/o dai diritti connessi ma da altre norme
@@ -96,8 +96,7 @@ editoriali (cfr. par. 3.2, U2) non potranno ricorrere a questo tipo di
 etichetta. Tali eccezioni dovranno essere infatti disciplinate, caso per
 caso, unicamente nella pagina web dei termini d’uso delle immagini.
 
-.. [1]
-    Può essere utile, a titolo esemplificativo, citare l’opera di
+.. [41] Può essere utile, a titolo esemplificativo, citare l’opera di
    digitalizzazione dell’archivio fotografico di Paolo Monti intrapresa
    dalla biblioteca della Fondazione BEIC di Milano. Dopo la morte del
    fotografo, nel 1982, l’istituto ha acquisito la proprietà dell’intero
@@ -106,8 +105,7 @@ caso, unicamente nella pagina web dei termini d’uso delle immagini.
    riproduzioni digitali delle fotografie attraverso licenze CC BY-SA
    (https://www.beic.it/it/articoli/fondo-paolo-monti).
 
-.. [2]
-    PDM (Public Domain Mark) è uno strumento legale messo a disposizione
+.. [42] PDM (Public Domain Mark) è uno strumento legale messo a disposizione
    da Creative Commons per contrassegnare le opere in pubblico dominio.
    In numerosi istituti culturali in tutto il mondo questa tipologia di
    etichetta individua risorse culturali digitali, e per questo, rese
@@ -117,11 +115,9 @@ caso, unicamente nella pagina web dei termini d’uso delle immagini.
    fronte al pubblico internazionale circa le corrette possibilità di
    riutilizzo delle immagini in pubblico dominio.
 
-.. [3]
-    https://rightsstatements.org/page/1.0/?language=it
+.. [43] https://rightsstatements.org/page/1.0/?language=it
 
-.. [4]
-    “L'uso di questo oggetto non è limitato dal diritto d'autore e/o dai
+.. [44] “L'uso di questo oggetto non è limitato dal diritto d'autore e/o dai
    diritti connessi. In una o più giurisdizioni è noto che leggi diverse
    dal diritto d'autore impongono restrizioni all'uso di questo oggetto.
    Si prega di fare riferimento all'organizzazione che ha messo

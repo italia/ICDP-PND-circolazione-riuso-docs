@@ -12,7 +12,7 @@ seleziona preventivamente quali diritti riservare a sé e quali,
 eventualmente, cedere in godimento a terzi (i licenziatari).
 
 Le licenze più note a livello internazionale sono le Creative Commons
-(CC) [1]_, proposte nel 2002 da Lawrence Lessig, d’uso ormai sempre più
+(CC) [40]_, proposte nel 2002 da Lawrence Lessig, d’uso ormai sempre più
 comune nell’editoria, nel mercato audiovisivo e nelle pratiche di
 digitalizzazione delle collezioni museali in tutto il mondo; tali
 licenze favoriscono una gestione più flessibile e intuitiva dei diritti
@@ -65,5 +65,4 @@ compreso quello di attribuzione espressa (BY). In questo modo l’opera
 entra nel pubblico dominio non già in seguito alla scadenza dei termini
 di protezione, bensì per scelta volontaria del suo autore.
 
-.. [1]
-    https://creativecommons.it/chapterIT/
+.. [40] https://creativecommons.it/chapterIT/

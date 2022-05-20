@@ -1,5 +1,5 @@
-**Principi per la definizione dei corrispettivi di riproduzione**
-=================================================================
+Principi per la definizione dei corrispettivi di riproduzione
+==============================================================
 
 Il Codice dei beni culturali, all’art. 108, comma 1, attribuisce
 all’autorità amministrativa che ha in consegna i beni la determinazione
@@ -16,7 +16,7 @@ Ulteriori principi utili alla determinazione di eventuali corrispettivi
 sulla fornitura e sul riuso delle riproduzioni di beni culturali
 detenuti da enti pubblici si rinvengono nella citata direttiva europea
 PSI e nel relativo decreto di recepimento nell’ordinamento giuridico
-italiano [1]_ che disciplina le modalità di riutilizzo dei documenti
+italiano [45]_ che disciplina le modalità di riutilizzo dei documenti
 contenenti dati pubblici. Una deroga al principio di gratuità ivi
 espresso è tuttavia ammessa per i contenuti prodotti e resi disponibili
 da biblioteche, comprese quelle universitarie, musei e archivi, in
@@ -31,12 +31,12 @@ produzione, riproduzione, diffusione, archiviazione dei dati,
 conservazione e gestione dei diritti e, ove applicabile, di
 anonimizzazione dei dati personali e delle misure adottate per
 proteggere le informazioni commerciali a carattere riservato,
-*maggiorati di un utile ragionevole sugli investimenti*\  [2]_. Ciò
+*maggiorati di un utile ragionevole sugli investimenti*\  [46]_. Ciò
 significa che le istituzioni culturali pubbliche possono generare utili
 mediante la previsione di corrispettivi di riproduzione sulla fornitura
 e/o sul riuso commerciale delle riproduzioni (nelle modalità individuate
 nel cap. 3), ma in misura “ragionevole”: dizione, quest’ultima, che
-necessita di essere di volta in volta contestualizzata [3]_.
+necessita di essere di volta in volta contestualizzata [47]_.
 
 Le norme sin qui analizzate concedono evidentemente ampi margini di
 discrezionalità alle amministrazioni per la determinazione degli importi
@@ -80,11 +80,11 @@ interessi dei differenti segmenti di utenza (cfr. par. 3.1, A8).
 
 Un elenco non esaustivo di possibili modelli per la determinazione delle
 tariffe è riportato nelle *Linee guida per la valorizzazione del
-patrimonio informativo pubblico* pubblicate dall’Agid nel 2014 [4]_
+patrimonio informativo pubblico* pubblicate dall’Agid nel 2014 [48]_
 ripreso nel *Piano Triennale per la Digitalizzazione e l’Innovazione dei
-Musei* elaborato nel 2019 dalla Direzione generale Musei [5]_ e qui
+Musei* elaborato nel 2019 dalla Direzione generale Musei [49]_ e qui
 rivisitato in funzione dei contenuti e degli obiettivi del presente
-documento [6]_:
+documento [50]_:
 
 -  **Tariffa fissa**
 
@@ -143,32 +143,25 @@ risorse digitali di corredo per finalità di consultazione.
 
 .. _section-2:
 
-.. [1]
-    D.lgs. 200/2021.
+.. [45] D.lgs. 200/2021.
 
-.. [2]
-   .. rubric::  D.lgs. 36/2006, art. 7, comma 3-\ \ *bis*.
-      :name: d.lgs.-362006-art.-7-comma-3-bis.
+.. [46] D.lgs. 36/2006, art. 7, comma 3-\ \ *bis*. d.lgs.-362006-art.-7-comma-3-bis.
 
-.. [3]
-    Alla data del presente documento sono in corso di stesura da parte
+.. [47] Alla data del presente documento sono in corso di stesura da parte
    di AgID le “Linee Guida recanti regole tecniche per l’attuazione del
    decreto legislativo 24 gennaio 2006, n. 36 e s.m.i. relativo
    all’apertura dei dati e al riutilizzo dell’informazione del settore
    pubblico”, in attuazione del 12 del medesimo decreto legislativo.
 
-.. [4]
-    Agenzia per l’Italia Digitale, *Linee guida nazionali per la
+.. [48] Agenzia per l’Italia Digitale, *Linee guida nazionali per la
    valorizzazione del patrimonio informativo pubblico*, pp. 86-88
    (https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf).
 
-.. [5]
-    Ministero per i beni e le attività culturali, Direzione generale
+.. [49] Ministero per i beni e le attività culturali, Direzione generale
    Musei, *Piano Triennale per la Digitalizzazione e l’Innovazione dei
    Musei*
    (http://musei.beniculturali.it/wp-content/uploads/2019/08/Piano-Triennale-per-la-Digitalizzazione-e-l%E2%80%99Innovazione-dei-Musei.pdf).
 
-.. [6]
-    Per un approfondimento sul tema dei servizi si rimanda all’allegato
+.. [50] Per un approfondimento sul tema dei servizi si rimanda all’allegato
    del PND “Linee guida per la classificazione di prodotti e servizi
    digitali, processi e modelli di gestione”.

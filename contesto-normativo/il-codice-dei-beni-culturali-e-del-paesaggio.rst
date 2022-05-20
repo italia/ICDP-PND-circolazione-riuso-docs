@@ -4,7 +4,7 @@
 Il Codice dei beni culturali è stato oggetto, nel 2014 e nel 2017, di
 importanti modifiche al testo dell’art. 108 disciplinante le
 riproduzioni di beni culturali pubblici. La legge 29 luglio 2014, n.
-106, mediante l’innesto del comma 3-\ *bis* sull’art. 108 [1]_, ha reso
+106, mediante l’innesto del comma 3-\*bis* sull’art. 108 [3]_ , ha reso
 libera (cioè gratuita ed esente da autorizzazione) non solo l’esecuzione
 di riproduzioni di beni culturali, ma anche la divulgazione - e quindi
 il riuso - delle medesime riproduzioni per finalità diverse dal lucro.
@@ -15,7 +15,7 @@ librari, in precedenza esclusi, nel rispetto delle norme a tutela della
 riservatezza, del diritto d’autore e dell’integrità del bene stesso,
 dall’altro ha rimosso il limite del ‘lucro indiretto’ alla libera
 divulgazione di immagini di beni culturali pubblici nel dispositivo
-dell’art. 108, comma 3-\ *bis*\  [2]_.
+dell’art. 108, comma 3-\ *bis*\  [4]_.
 
 La riforma del 2017 è stata recepita dalle circolari n. 33 e n. 39 della
 Direzione generale Archivi e dalla circolare n. 14 della Direzione
@@ -23,7 +23,7 @@ generale Biblioteche e Istituti Culturali, le quali hanno introdotto la
 gratuità e la procedura di comunicazione in luogo della richiesta di
 autorizzazione per la pubblicazione di immagini in periodici e
 monografie scientifiche di tiratura inferiore alle 2000 copie e con un
-prezzo di copertina inferiore a 70 o 77 euro [3]_. Questa importante
+prezzo di copertina inferiore a 70 o 77 euro [5]_. Questa importante
 misura di semplificazione ha interessato, tuttavia, esclusivamente la
 realtà di archivi e biblioteche, in assenza di analoga regolamentazione
 in ambito museale; circostanza, quest’ultima, che ha determinato una
@@ -40,7 +40,7 @@ regolamenti di riproduzione degli istituti, condizionando ancora, a
 distanza di quasi trent’anni dalla sua emanazione, le prassi quotidiane
 di musei, archivi e biblioteche: la citata soglia dei 70 euro e delle
 2000 copie deriva infatti direttamente da questo tariffario, ne è anzi
-l’esatta traduzione dalle lire in euro [4]_. Più in generale, a fronte
+l’esatta traduzione dalle lire in euro [6]_. Più in generale, a fronte
 di un Codice dei beni culturali che negli ultimi anni ha comunque
 provato ad aggiornarsi, il quadro normativo e, soprattutto,
 regolamentare sembra a tratti manifestare notevoli anacronismi: basti
@@ -57,8 +57,7 @@ alle modalità di acquisizione e riuso delle immagini in ambiente
 digitale per far fronte ai nuovi bisogni della società che la tecnologia
 ha fatto emergere.
 
-.. [1]
-    “Sono in ogni caso libere le seguenti attività, svolte senza scopo
+.. [3] “Sono in ogni caso libere le seguenti attività, svolte senza scopo
    di lucro, per finalità di studio, ricerca, libera manifestazione del
    pensiero o espressione creativa, promozione della conoscenza del
    patrimonio culturale: 1) la riproduzione di beni culturali diversi
@@ -76,8 +75,7 @@ ha fatto emergere.
    restrizioni che limitavano la diffusione delle riproduzioni di beni
    culturali anche per finalità di “lucro indiretto”.
 
-.. [2]
-    L’art. 108, comma 3-\ \ *bis* oggi vigente, che rappresenta l’esito
+.. [4] L’art. 108, comma 3-\ \ *bis* oggi vigente, che rappresenta l’esito
    delle modifiche introdotte dalla L. 124/2017 sul testo precedente
    (cfr. nota precedente), recita infatti: “Sono in ogni caso libere le
    seguenti attività, svolte senza scopo di lucro, per finalità di
@@ -93,15 +91,13 @@ ha fatto emergere.
    immagini di beni culturali, legittimamente acquisite, in modo da non
    poter essere ulteriormente riprodotte a scopo di lucro”.
 
-.. [3]
-    Le soglie di 70 e 77 euro sono riportate, rispettivamente, nella
+.. [5] Le soglie di 70 e 77 euro sono riportate, rispettivamente, nella
    circolare n. 33/2017 della Direzione generale Archivi e nella
    circolare 14/2017 della Direzione generale Biblioteche. Ciò determina
    un parziale disallineamento tra la regolamentazione degli archivi e
    delle biblioteche.
 
-.. [4]
-    La gratuità stabilità dal decreto ministeriale 8 aprile 1994 era
+.. [6] La gratuità stabilità dal decreto ministeriale 8 aprile 1994 era
    infatti prevista per libri con tiratura inferiore alle 2.000 copie e
    aventi un prezzo di copertina inferiore a 150.000 lire e per i
    periodici di natura scientifica.

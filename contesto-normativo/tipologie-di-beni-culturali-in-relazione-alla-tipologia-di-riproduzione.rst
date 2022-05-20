@@ -1,4 +1,4 @@
-2.4 Tipologie di beni culturali in relazione alla tipologia di riproduzione 
+2.4 Tipologie di beni culturali in relazione alla tipologia di riproduzione
 ============================================================================
 
 Sui beni culturali oggetto di digitalizzazione hanno rilievo diritti di
@@ -16,7 +16,7 @@ riportato in fondo al presente paragrafo.
 B1. Beni culturali pubblici in pubblico dominio
 -----------------------------------------------
 
-Sui *beni culturali in pubblico dominio*\  [1]_ (**B1**) non gravano per
+Sui *beni culturali in pubblico dominio*\  [13]_ (**B1**) non gravano per
 definizione privative di tutela del diritto d’autore. Le riproduzioni in
 questo caso soggiacciono esclusivamente al Codice dei beni culturali e,
 eventualmente, alle norme sulla tutela della riservatezza (cfr. **B3**).
@@ -32,7 +32,7 @@ scultorea richiede certamente il possesso di competenze tecniche
 qualificate da parte dell’operatore ma non costituisce un apporto
 creativo e originale tale da poter prefigurare la costituzione di
 un’opera creativa; trova quindi applicazione l’art. 32-\ *quater* della
-LdA [2]_, che stabilisce che le riproduzioni fedeli di opere per le
+LdA [14]_, che stabilisce che le riproduzioni fedeli di opere per le
 quali siano scaduti i termini della protezione del diritto d’autore non
 sono soggette a loro volta al diritto d’autore (cfr. par. 2.3). Non
 appare dunque più congruente la pratica adottata da molti istituti
@@ -63,7 +63,7 @@ lato quella spettante all’autore dell’opera fotografica, dall’altro
 quella propria del bene culturale pubblico oggetto di riproduzione ai
 sensi dell’art. 108 del Codice dei beni culturali. È questo il caso, ad
 esempio, del concorso fotografico annuale promosso da Wikimedia Italia e
-denominato “Wiki Loves Monuments” [3]_, in occasione del quale fotografi
+denominato “Wiki Loves Monuments” [15]_, in occasione del quale fotografi
 professionisti e dilettanti ritraggono i monumenti italiani alimentando
 una banca dati di immagini online a disposizione per il riuso. Il fatto
 che i fotografi pubblichino le immagini con licenza aperta (nella
@@ -102,14 +102,14 @@ fuori dalla disciplina del Codice dei beni culturali. Poiché la
 richiesta di corrispettivi per la riproduzione di monumenti e oggetti
 d’arte per fini commerciali venne introdotta per la prima volta
 nell’ordinamento giuridico nel 1902, per effetto dell’entrata in vigore
-della legge 12 giugno 1902, n. 185 (cd. legge Nasi) [4]_, le fotografie
+della legge 12 giugno 1902, n. 185 (cd. legge Nasi) [16]_, le fotografie
 realizzate prima di tale anno possono infatti essere considerate
 estranee alla disciplina codicistica per quanto attiene la riproduzione
 del monumento (cfr. par. 2.1), mentre vi rientrano a pieno titolo se le
 medesime fotografie, materialmente intese, sono, in quanto tali, beni
 culturali pubblici.
 
-B2. Beni culturali pubblici protetti da diritto d’autore 
+B2. Beni culturali pubblici protetti da diritto d’autore
 ---------------------------------------------------------
 
 Nel caso di *beni culturali protetti dal diritto d’autore* (**B2**),
@@ -119,20 +119,20 @@ diritti di sfruttamento economico delle opere medesime. Tuttavia, come
 anticipato nel par. 2.3, per gli istituti culturali esistono sia alcune
 importanti eccezioni introdotte dalla direttiva europea 2019/790
 (“Copyright”) che legittimano la riproduzione digitale delle opere per
-finalità di conservazione [5]_, sia misure che facilitano la
-pubblicazione in rete di riproduzioni di opere fuori commercio [6]_
+finalità di conservazione [17]_, sia misure che facilitano la
+pubblicazione in rete di riproduzioni di opere fuori commercio [18]_
 presenti in modo permanente nelle raccolte degli istituti culturali. In
 particolare, se l’opera di proprietà dell’istituto risulta fuori
 commercio da almeno dieci anni può essere digitalizzata e la sua
 immagine può essere pubblicata in rete, per fini non commerciali, previo
 accordo di licenza con le relative società di gestione collettiva dei
-diritti d'autore [7]_.
+diritti d'autore [19]_.
 
 Qualsiasi *riproduzione fedele* (**R1**) - vale a dire non creativa - di
 un bene culturale pubblico protetto da diritto d’autore dovrà essere
 autorizzata espressamente dal titolare dei diritti, il quale a sua volta
 dovrà autorizzare qualsiasi ulteriore riproduzione della fotografia
-realizzata [8]_. Tale autorizzazione è necessaria anche se il MiC sia
+realizzata [20]_. Tale autorizzazione è necessaria anche se il MiC sia
 divenuto proprietario o depositario del bene, a meno che l’avente
 diritto non abbia stabilito diversamente nell’atto di disposizione
 (compravendita o donazione; deposito o prestito). Il bene ancora sotto
@@ -157,7 +157,7 @@ andranno regolati da aspecifici accordi: i diritti dell’autore
 dell’opera, i diritti dell’autore delle riproduzioni e la disciplina del
 Codice dei beni culturali.
 
-B3. Beni archivistici pubblici caratterizzati da problematiche di riservatezza 
+B3. Beni archivistici pubblici caratterizzati da problematiche di riservatezza
 -------------------------------------------------------------------------------
 
 Il rapporto problematico tra riproduzione digitale e tutela della
@@ -214,7 +214,7 @@ normativi di livello nazionale coordinati, quali il decreto legislativo
 n. 196/2003 e le Regole deontologiche ad esso allegate, che definiscono
 criteri di valutazione per la diffusione di documenti contenenti dati
 personali in base all’ambito o disciplina in cui si trova l’utente si
-trova ad operare [9]_. Questo tipo di attività è precisamente normato
+trova ad operare [21]_. Questo tipo di attività è precisamente normato
 dalle Regole deontologiche che suggeriscono anche quali siano gli
 strumenti da utilizzare e i criteri da seguire.
 
@@ -241,7 +241,7 @@ effettuata, su richiesta degli interessati, esclusivamente a cura
 dell’istituto, il quale può non autorizzare la riproduzione qualora la
 documentazione contenga “categorie particolari di dati personali” o
 “dati personali relativi a condanne penali e reati” di cui agli artt.
-9-10 del GDPR [10]_.
+9-10 del GDPR [22]_.
 
 Qualora la documentazione archivistica sia oggetto di progetti di
 digitalizzazione intrapresi da soggetti pubblici o privati sarà
@@ -279,13 +279,11 @@ matrice che segue:
 
 |image0|
 
-.. [1]
-    Opere non più coperte da diritto d'autore per esplicita rinuncia da
+.. [13] Opere non più coperte da diritto d'autore per esplicita rinuncia da
    parte dei titolari dei diritti oppure per scadenza dei termini
    temporali previsti dalla LdA.
 
-.. [2]
-    LdA, art. 32-\ \ *quater*: “Alla scadenza della durata di protezione
+.. [14] LdA, art. 32-\ \ *quater*: “Alla scadenza della durata di protezione
    di un'opera delle arti visive, anche come individuate all'articolo 2,
    il materiale derivante da un atto di riproduzione di tale opera non è
    soggetto al diritto d'autore o a diritti connessi, salvo che
@@ -293,14 +291,12 @@ matrice che segue:
    materia di riproduzione dei beni culturali di cui al decreto d.lgs.
    42/2004”.
 
-.. [3]
-    https://www.wikimedia.it/wiki-loves-monuments/
+.. [15] https://www.wikimedia.it/wiki-loves-monuments/
 
-.. [4]
-    ”La riproduzione dei monumenti e degli oggetti d'arte e di antichità
+.. [16] "La riproduzione dei monumenti e degli oggetti d'arte e di antichità
    di proprietà governativa sarà permessa con le norme e alle condizioni
    da stabilirsi nel Regolamento e verso il pagamento di un adeguato
-   compenso“ (art. 19). Cfr. in proposito il regio decreto 28 giugno
+   compenso" (art. 19). Cfr. in proposito il regio decreto 28 giugno
    1906, n. 447 che modifica il Capo V (*Delle riproduzioni di oggetti
    di antichità e d’arte*), Sez. III (*Riproduzioni fotografiche*) del
    regolamento 17 luglio 1904, n. 431 riguardante la conservazione dei
@@ -309,8 +305,7 @@ matrice che segue:
    uso commerciale non era vincolata alla corresponsione di un
    corrispettivo economico da parte del fotografo.
 
-.. [5]
-    L’eccezione a favore della conservazione, attraverso l’art. 1, comma
+.. [17] L’eccezione a favore della conservazione, attraverso l’art. 1, comma
    1, lettera g) del d.lgs. 177/2021, è stata trasposta all’art. 68,
    comma 2-\ \ *bis* della LdA nei termini seguenti: ”2-\ \ *bis*. Gli
    istituti di tutela del patrimonio culturale di cui all'articolo
@@ -321,20 +316,17 @@ matrice che segue:
    qualsiasi supporto. È nulla qualsiasi pattuizione avente ad oggetto
    limitazioni o esclusioni di tale diritto”.
 
-.. [6]
-    L’eccezione relativa alle opere fuori commercio, attraverso l’art.
+.. [18] L’eccezione relativa alle opere fuori commercio, attraverso l’art.
    1, comma 1, lettera o) del d.lgs. 177/2021, è stata trasposta agli
    artt. 102-\ \ *undecies*-102-*septiesdecies* della LdA.
 
-.. [7]
-    “Con decreto del Ministro della cultura possono essere individuati
+.. [19] “Con decreto del Ministro della cultura possono essere individuati
    ulteriori requisiti specifici ai fini della definizione delle opere
    fuori commercio, previa consultazione con i titolari dei diritti, gli
    organismi di gestione collettiva e gli istituti di tutela del
    patrimonio culturale” (LdA, art. 102-\ \ *undecies*).
 
-.. [8]
-    Sulla riproduzione fedele dell’opera sotto tutela del diritto
+.. [20] Sulla riproduzione fedele dell’opera sotto tutela del diritto
    d’autore insiste anche il diritto connesso del fotografo di cui
    all’art. 87 e ss. LdA, a meno che la riproduzione non venga
    realizzata dall’istituto di tutela stesso. Se la fotografia è stata
@@ -346,8 +338,7 @@ matrice che segue:
    web <https://digitallibrary.cultura.gov.it/wp-content/uploads/2021/04/FAQ-DIRITTO-DAUTORE-COPYRIGHT-E-LICENZE-APERTE-PER-LA-CULTURA-NEL-WEB-10_03_2021-1.pdf>`__
    (11/03/2021).
 
-.. [9]
-    Si segnalano in particolare le Regole deontologiche per trattamenti
+.. [21] Si segnalano in particolare le Regole deontologiche per trattamenti
    a fini statistici o di ricerca scientifica, le Regole deontologiche
    relative al trattamento dei dati personali nell'esercizio
    dell'attività giornalistica e, soprattutto, le Regole deontologiche
@@ -356,8 +347,7 @@ matrice che segue:
    4, del decreto legislativo 10 agosto 2018, n. 101
    (https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9069661).
 
-.. [10]
-    A seguito dell’abrogazione dell’art. 22 ad opera del d.lgs. 101/2018
+.. [22] A seguito dell’abrogazione dell’art. 22 ad opera del d.lgs. 101/2018
    il riferimento ai dati sensibili e giudiziari e sulla salute (cd.
    dati sensibilissimi o supersensibili) presente nella circolare n.
    33/2017 della Direzione generale Archivi va ora messo in relazione
@@ -365,4 +355,4 @@ matrice che segue:
    relativi a condanne penali e reati” definite agli artt. 9 -10 del
    GDPR.
 
-.. |image0| image:: ./media/image2.jpeg
+.. |image0| image:: ../media/image2.jpeg

@@ -7,7 +7,7 @@ ricezione in ambito nazionale della citata direttiva comunitaria
 2019/1024 (PSI) sono state esplicitamente richiamate le disposizioni
 dell’art. 107 e 108 del Codice dei beni culturali; pertanto mentre i
 principi dell’Open Access si applicano integralmente alla pubblicazione
-di dati e metadati [1]_, la libera circolazione delle riproduzioni dei
+di dati e metadati [39]_, la libera circolazione delle riproduzioni dei
 beni culturali rimane invece consentita per tutti gli usi eccetto quelli
 commerciali, per i quali, come è noto, è richiesto un corrispettivo di
 riproduzione. Tuttavia, la stessa direttiva europea prevede la
@@ -58,6 +58,5 @@ seguenti punti di convergenza:
    previsioni dei pagamenti elettronici della pubblica amministrazione
    (PagoPA).
 
-.. [1]
-    Cfr. Linee guida per la redazione del piano digestione dei dati
+.. [39] Cfr. Linee guida per la redazione del piano digestione dei dati
    (Data Management Plan), allegato tecnico n. 2 al PND.

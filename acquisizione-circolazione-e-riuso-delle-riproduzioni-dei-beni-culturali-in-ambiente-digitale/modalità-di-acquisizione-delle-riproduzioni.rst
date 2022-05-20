@@ -1,4 +1,4 @@
-3.1 Modalità di acquisizione delle riproduzioni 
+3.1 Modalità di acquisizione delle riproduzioni
 ================================================
 
 Nel presente paragrafo sono descritti undici canali principali di
@@ -35,7 +35,7 @@ monumento, un’opera museale, un documento d’archivio o un’opera
 conservata in biblioteca. In questi casi può farlo gratuitamente e senza
 dover richiedere alcuna autorizzazione.*
 
-**A2. Riproduzioni eseguite da privati con mezzo proprio con l’ausilio di flash e/o treppiedi e/o dispositivo a contatto o mediante drone**
+A2. Riproduzioni eseguite da privati con mezzo proprio con l’ausilio di flash e/o treppiedi e/o dispositivo a contatto o mediante drone
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Le riprese professionali che implicano l’impiego di *flash*, treppiedi o
@@ -47,7 +47,7 @@ interni al luogo della cultura, tale da condizionarne la fruizione da
 parte del pubblico, può essere richiesto un canone di concessione legato
 all'uso temporaneo degli spazi (cfr. **A3**). Per quanto riguarda le
 riproduzioni effettuate attraverso drone, si rimanda alla specifica
-normativa di settore [1]_.
+normativa di settore [23]_.
 
 **Esempio:** *l’utente ha necessità di servirsi di dispositivi e
 attrezzature specifiche, quali* flash e *treppiedi per garantire
@@ -117,7 +117,7 @@ medesimo. In questo caso egli dovrà corrispondere all’istituto (o alla
 società/professionista che gestisce il servizio di riproduzione) un
 corrispettivo per l’esecuzione e la fornitura della riproduzione.*
 
-A5. Riproduzioni richieste da soggetti pubblici da produrre *ex novo* 
+A5. Riproduzioni richieste da soggetti pubblici da produrre *ex novo*
 ----------------------------------------------------------------------
 
 L’amministrazione titolare del bene può valutare la possibilità di
@@ -135,7 +135,7 @@ le riproduzioni gratuitamente e ne cura l’invio all’ente richiedente.
 L’archivio valuta altresì l’opportunità di procedere alla stipula di una
 convenzione o di un protocollo d’intesa ad hoc.*
 
-**A6. Riproduzioni richieste da privati già presenti in banche dati locali ma non pubblicate online**
+A6. Riproduzioni richieste da privati già presenti in banche dati locali ma non pubblicate online
 -----------------------------------------------------------------------------------------------------
 
 Qualora la riproduzione di un bene sia già presente nella banca dati
@@ -176,7 +176,7 @@ descrittivi previa citazione della provenienza.*
 
 *Riproduzioni acquisite online*
 
-**A8. Riproduzioni acquisite da soggetti pubblici o privati dai siti web istituzionali del MiC mediante download**
+A8. Riproduzioni acquisite da soggetti pubblici o privati dai siti web istituzionali del MiC mediante download
 ------------------------------------------------------------------------------------------------------------------
 
 Qualora la riproduzione sia già stata effettuata dall'istituto nel corso
@@ -202,10 +202,10 @@ dell’immagine, anche soltanto per i fini non lucrativi ammessi dalla
 normativa vigente. Per le stesse ragioni va scoraggiata la
 sovraimpressione di filigrane sulle immagini, in coerenza con le
 raccomandazioni già espresse dalla Commissione Europea in data 27
-ottobre 2011 [2]_. Non può quindi che essere salutata con favore la
+ottobre 2011 [24]_. Non può quindi che essere salutata con favore la
 scelta di alcuni musei di rendere liberamente scaricabili immagini delle
 proprie opere a medio-alta definizione e prive di qualsiasi
-filigrana [3]_.
+filigrana [25]_.
 
 **Esempio:** *l’immagine è stata pubblicata nella collezione online
 dell’istituto. L’utente può scaricarla dal sito gratuitamente e ne può
@@ -226,7 +226,7 @@ aggiuntivi messi a disposizione dall’istituto.*
 *Cfr.* Linee guida per la classificazione di prodotti e servizi
 digitali, processi e modelli di gestione.
 
-**A9. Riproduzioni acquisite da soggetti pubblici o privati dai siti web di terze parti mediante download**
+A9. Riproduzioni acquisite da soggetti pubblici o privati dai siti web di terze parti mediante download
 -----------------------------------------------------------------------------------------------------------
 
 Il *download* di riproduzioni di beni culturali pubblicati in siti web
@@ -259,7 +259,7 @@ responsabili di tutti i successivi utilizzi che potranno farne.*
 
 *Altre forme di acquisizione*
 
-**A10. Acquisizione di riproduzioni massive di intere serie o di parti sostanziali di collezioni**
+A10. Acquisizione di riproduzioni massive di intere serie o di parti sostanziali di collezioni
 --------------------------------------------------------------------------------------------------
 
 L’acquisizione massiva di serie integrali, o di parti sostanziali della
@@ -290,7 +290,7 @@ mezzi professionali e senza occupazione temporanea di spazi, prima di
 procedere alle riprese, la fondazione è tenuta a inoltrare una richiesta
 formale al direttore del museo, specificandone le ragioni.*
 
-**A11. Riproduzioni ad altissima definizione di beni culturali**
+A11. Riproduzioni ad altissima definizione di beni culturali
 ----------------------------------------------------------------
 
 Nel caso un soggetto pubblico o privato volesse realizzare copie ad
@@ -310,7 +310,7 @@ un noto codice miniato al fine di poterle commercializzare sia su
 supporti analogici (copie 3D) che digitali (ad esempio mediante NFT),
 secondo modalità da concordare con il MiC.*
 
-**Quadro sinottico (A-Modalità di acquisizione delle riproduzioni)**
+Quadro sinottico (A-Modalità di acquisizione delle riproduzioni)
 --------------------------------------------------------------------
 
 Di seguito viene riportata una tabella riepilogativa delle diverse
@@ -321,10 +321,7 @@ di bene culturale pubblico in pubblico dominio:
 
 .. _section-1:
 
-**
-**
-
-**Flusso procedurale**
+Flusso procedurale
 ----------------------
 
 Le diverse procedure per l’acquisizione di una riproduzione di un bene
@@ -333,8 +330,7 @@ procedurale:
 
 |image1|
 
-.. [1]
-    Per la disciplina d'uso dei droni attualmente vigente (Regolamento
+.. [23] Per la disciplina d'uso dei droni attualmente vigente (Regolamento
    ENAC UAS-IT del 04.01.2021), nessun drone, indipendentemente dal
    peso, può effettuare voli senza autorizzazione all'interno di aree
    archeologiche delimitate, che sono considerate tra le "aree
@@ -352,22 +348,20 @@ procedurale:
    disciplina ENAC. In ogni caso tutti gli apparecchi, indipendentemente
    dal peso, devono essere coperti da assicurazione.
 
-.. [2]
-    Raccomandazione della Commissione Europea del 27 ottobre 2011 sulla
+.. [24] Raccomandazione della Commissione Europea del 27 ottobre 2011 sulla
    digitalizzazione e l’accessibilità in rete dei materiali culturali e
    sulla conservazione digitale: “Si dovrebbe evitare l'uso di filigrane
    intrusive o di altre misure di protezione visiva su copie di
    materiale di pubblico dominio come segno di proprietà o provenienza”
    (https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:283:0039:0045:IT:PDF).
 
-.. [3]
-    Si può citare, a titolo esemplificativo, la Pinacoteca di Brera che
+.. [25] Si può citare, a titolo esemplificativo, la Pinacoteca di Brera che
    ha optato per la messa a disposizione del pubblico di riproduzioni di
    opere a risoluzione medio-alta pur circoscrivendo il riuso libero
    dell’immagine al solo scopo non commerciale
    (https://pinacotecabrera.org/collezioni/opere-on-line/).
 
-.. |image0| image:: ./media/image3.jpeg
-.. |image1| image:: ./media/image6.jpeg
+.. |image0| image:: ../media/image3.jpeg
+.. |image1| image:: ../media/image6.jpeg
    :width: 6.35458in
    :height: 4.79722in

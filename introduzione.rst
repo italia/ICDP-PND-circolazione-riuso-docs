@@ -75,11 +75,10 @@ partendo dal quadro normativo vigente, sia in grado di cogliere il senso
 dei cambiamenti in atto, restituendo un contesto procedurale chiaro e
 omogeneo, orientato alle esigenze del fruitore e rispondente alle nuove
 modalità di utilizzo delle riproduzioni in ambiente digitale, ai modelli
-di *business*\  [2]_ emergenti e, in generale, ai bisogni più attuali
+di *business*\ [2]_ emergenti e, in generale, ai bisogni più attuali
 della collettività.
 
-.. [1]
-    La Convenzione quadro del Consiglio d’Europa sul valore del
+.. [1] La Convenzione quadro del Consiglio d’Europa sul valore del
    patrimonio culturale per la società, sottoscritta a Faro il 27
    ottobre 2005, riconosce il diritto, individuale e collettivo a
    “trarre beneficio dal patrimonio culturale e a contribuire al suo
@@ -91,7 +90,6 @@ della collettività.
    partecipativo le politiche di musei, archivi e biblioteche, ivi
    comprese quelle inerenti la digitalizzazione del patrimonio.
 
-.. [2]
-    Per *modello di business* qui si intende la logica con cui
+.. [2] Per *modello di business* qui si intende la logica con cui
    un’organizzazione, anche pubblica, opera per creare valore per i suoi
    stakeholder.

@@ -20,10 +20,9 @@ esplicitabili, ad esempio, in file METS) nei termini che seguono:
 
 **MiC Standard (BY NC)**
 
-dct:rights: http://rightsstatements.org/vocab/NoC-OKLR/1.0/
+dct:rights: `<http://rightsstatements.org/vocab/NoC-OKLR/1.0/>`_
 
-dct:license:
-https://w3id.org/italia/controlled-vocabulary/licences/MIC_BY_NC_1.0
+dct:license: `<https://w3id.org/italia/controlled-vocabulary/licences/MIC_BY_NC_1.0>`_
 (URI esemplificativa, non ancora disponibile)
 
 Gli uffici del MiC adegueranno progressivamente i metadati delle risorse

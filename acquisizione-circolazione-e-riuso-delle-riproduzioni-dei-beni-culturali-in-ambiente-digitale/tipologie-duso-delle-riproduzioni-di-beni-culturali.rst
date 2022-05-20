@@ -8,11 +8,11 @@ stesso tempo strettamente legati tra loro, perché l'acquisizione di una
 riproduzione è sempre funzionale a una intenzione di riutilizzo da parte
 dell’utente.
 
-Di seguito sono elencate le principali finalità di **U**\ tilizzo delle
+Di seguito sono elencate le principali finalità di Utilizzo delle
 immagini di beni culturali pubblici in pubblico dominio (**U1**-**U11**)
 disciplinate in base al Codice dei beni culturali.
 
-**U1. Fini di studio, ricerca, libera manifestazione del pensiero o espressione creativa**
+U1. Fini di studio, ricerca, libera manifestazione del pensiero o espressione creativa
 ------------------------------------------------------------------------------------------
 
 -  *Uso personale e di studio (compresa la pubblicazione sui blog e
@@ -31,13 +31,13 @@ disciplinate in base al Codice dei beni culturali.
 Il Codice dei beni culturali stabilisce il principio della gratuità per
 le riproduzioni richieste o eseguite da privati per uso personale o per
 motivi di studio, ovvero da soggetti pubblici o privati per finalità di
-valorizzazione, purché attuate senza scopo di lucro [1]_; inoltre,
+valorizzazione, purché attuate senza scopo di lucro [26]_; inoltre,
 l‘art. 108, comma 3-\ *bis* liberalizza le riproduzioni dei beni
 culturali introducendo il principio della libera diffusione di immagini
 di beni culturali pubblici purché svolta senza scopo di lucro, per
 finalità di studio, ricerca, libera manifestazione del pensiero o
 espressione creativa, promozione della conoscenza del patrimonio
-culturale [2]_.
+culturale [27]_.
 
 Rientrano in queste casistiche le riproduzioni eseguite a scopo
 personale e di studio che non implicano in altri termini la divulgazione
@@ -48,7 +48,7 @@ attività di ricerca finalizzate all’espletamento di pratiche
 professionali a favore di terzi; in questo caso oggetto del lucro non è
 da considerarsi la riproduzione del bene culturale in sé, quanto il
 lavoro d’opera intellettuale oggetto della prestazione
-professionale [3]_. È egualmente da ritenersi libera la divulgazione
+professionale [28]_. È egualmente da ritenersi libera la divulgazione
 delle immagini per finalità di ricerca. Ciò si verifica, ad esempio,
 quando le immagini sono parte integrante di elaborati scientifici
 distribuiti in canali non commerciali (come tesi di laurea, master o
@@ -60,10 +60,10 @@ caratterizzati dall’accesso gratuito, oppure la proiezione temporanea di
 immagini nell’ambito di eventi pubblici o privati. In ogni caso il
 carattere commerciale proprio dei più comuni *social network* non
 permette di qualificare come attività lucrativa la semplice
-”condivisione“ di immagini in simili piattaforme [4]_.
+”condivisione“ di immagini in simili piattaforme [29]_.
 
-**U2. Usi editoriali**
-----------------------
+U2. Usi editoriali
+------------------
 
 -  *Editoria scientifica in* Open Access *(monografie o riviste)*
 
@@ -80,7 +80,7 @@ pubblicazione editoriale delle riproduzioni di beni culturali. Ad
 esempio, il limite della gratuità per pubblicazioni inferiori alle 2000
 copie e ai 70 euro come prezzo di copertina, che deriva dal decreto
 ministeriale 8 aprile del 1994, è presente soprattutto nella realtà
-degli archivi e biblioteche [5]_, mentre non è oggi la regola nei musei.
+degli archivi e biblioteche [30]_, mentre non è oggi la regola nei musei.
 
 Si ravvisa pertanto la necessità di delineare prassi il più possibile
 uniformi e semplificate per gli usi editoriali delle riproduzioni dei
@@ -132,13 +132,10 @@ potranno essere introdotte dagli istituti, motivatamente, solo per
 prodotti editoriali venduti a un prezzo di copertina superiore a 70
 euro. Tali eccezioni, che rappresentano un’alternativa all’etichetta
 “MiC standard”, dovranno essere dettagliate dagli istituti interessati
-nella pagina web dedicata ai termini d’uso delle immagini [6]_.
+nella pagina web dedicata ai termini d’uso delle immagini [31]_.
 
-**
-**
-
-**U3. Usi connessi con l’impresa culturale e l’industria creativa**
--------------------------------------------------------------------
+U3. Usi connessi con l’impresa culturale e l’industria creativa
+---------------------------------------------------------------
 
 -  *Mostre ed eventi culturali (ingresso gratuito o a pagamento)*
 
@@ -153,7 +150,7 @@ nella pagina web dedicata ai termini d’uso delle immagini [6]_.
 L’utilizzo di riproduzioni di beni culturali in occasione di mostre o
 manifestazioni culturali da chiunque organizzate è gratuito,
 indipendentemente dal fatto che sia previsto o meno il pagamento di un
-biglietto di ingresso [7]_. In questi casi si richiede al soggetto
+biglietto di ingresso [32]_. In questi casi si richiede al soggetto
 organizzatore dell’evento l’invio all’istituto detentore del bene di una
 informativa sulla manifestazione mediante la compilazione di un *form*
 online, nella quale sarà riportato l’impegno a consegnare una copia
@@ -181,10 +178,10 @@ applicazioni informatiche commerciali fruite a pagamento deve essere
 infine richiesta l’autorizzazione e il versamento di un corrispettivo
 all’istituto che conserva i beni riprodotti.
 
-**U4. Usi pubblicitari e commerciali**
---------------------------------------
+U4. Usi pubblicitari e commerciali
+-----------------------------------
 
--  Merchandising
+-  *Merchandising*
 
 -  *Uso promozionale e pubblicitario*
 
@@ -199,12 +196,12 @@ pubblicitario e infine l’utilizzo delle immagini come ambientazione per
 eventi o attività commerciali (ad esempio fondali per sfilate di moda o
 all’interno di spazi commerciali).
 
-**U5. Licensing e vendita di immagini**
----------------------------------------
+U5. Licensing e vendita di immagini
+-------------------------------------
 
--  *Commercializzazione delle riproduzioni*
+- *Commercializzazione delle riproduzioni*
 
--  *Copie certificate destinate al mercato*
+- *Copie certificate destinate al mercato*
 
 Tra le principali attività di sfruttamento economico delle riproduzioni
 di beni culturali si inserisce tradizionalmente la vendita di tali
@@ -247,10 +244,8 @@ specifiche linee guida in merito agli NFT e alla cripto-arte. Tali linee
 guida, una volta mature, saranno inserite tra gli strumenti tecnici del
 PND.
 
-**
-**
 
-**Quadro sinottico (U-Tipologie d’uso delle riproduzioni di beni culturali)**
+Quadro sinottico (U-Tipologie d’uso delle riproduzioni di beni culturali)
 -----------------------------------------------------------------------------
 
 |image0| Di seguito viene riportata una tabella riepilogativa delle
@@ -260,7 +255,9 @@ pubblico in pubblico dominio:
 
 |image1|
 
-|image2|\ |image3|
+|image2|
+
+|image3|
 
 Tale tabella va considerata come un riepilogo volto a riassumere le
 tipologie di casistiche ricorrenti, utile soprattutto per disciplinare
@@ -270,16 +267,14 @@ intercorrente tra l’istituto che conserva il bene materiale e gli
 operatori economici privati possa atteggiarsi diversamente nel singolo
 caso concreto.
 
-.. [1]
-    Art. 108, comma 3: “Nessun canone è dovuto per le riproduzioni
+.. [26] Art. 108, comma 3: “Nessun canone è dovuto per le riproduzioni
    richieste o eseguite da privati per uso personale o per motivi di
    studio, ovvero da soggetti pubblici o privati per finalità di
    valorizzazione, purché attuate senza scopo di lucro. I richiedenti
    sono comunque tenuti al rimborso delle spese sostenute
    dall'amministrazione concedente”.
 
-.. [2]
-    Art. 108, comma 3-\ \ *bis*: “Sono in ogni caso libere le seguenti
+.. [27] Art. 108, comma 3-\ \ *bis*: “Sono in ogni caso libere le seguenti
    attività, svolte senza scopo di lucro, per finalità di studio,
    ricerca, libera manifestazione del pensiero o espressione creativa,
    promozione della conoscenza del patrimonio culturale: 1) la
@@ -293,24 +288,20 @@ caso concreto.
    immagini di beni culturali, legittimamente acquisite, in modo da non
    poter essere ulteriormente riprodotte a scopo di lucro”.
 
-.. [3]
-    Qualora l’amministrazione realizzi delle banche dati
+.. [28] Qualora l’amministrazione realizzi delle banche dati
    specificatamente indirizzate a soddisfare le esigenze dei
    professionisti (come ad esempio banche dati cartografiche, banche
    dati dei vincoli, ecc.) queste devono intendersi come servizio e
    quindi possono essere oggetto di un’adeguata valorizzazione
    economica.
 
-.. [4]
-    Ciò ovviamente a condizione che le regole d’uso delle piattaforme
+.. [29] Ciò ovviamente a condizione che le regole d’uso delle piattaforme
    lascino in capo agli utenti la titolarità delle immagini pubblicate.
 
-.. [5]
-    Circolari n. 33/2017 della Direzione generale Archivi e n. 14/2017
+.. [30] Circolari n. 33/2017 della Direzione generale Archivi e n. 14/2017
    della Direzione generale Biblioteche.
 
-.. [6]
-    In prospettiva, la perdurante applicazione di diritti di
+.. [31] In prospettiva, la perdurante applicazione di diritti di
    riproduzione sui prodotti editoriali a medio termine potrebbe indurre
    l’editoria nazionale e internazionale a ricercare immagini di opere
    d’arte dai siti web di istituti culturali stranieri che già
@@ -318,11 +309,10 @@ caso concreto.
    il rischio quindi di una progressiva marginalizzazione del patrimonio
    culturale del nostro Paese.
 
-.. [7]
-    Il biglietto di ingresso a un‘esposizione in sé non sembra
+.. [32] Il biglietto di ingresso a un‘esposizione in sé non sembra
    sufficiente a qualificare l’iniziativa culturale come “lucrativa”.
 
-.. |image0| image:: ./media/image7.jpeg
-.. |image1| image:: ./media/image8.jpeg
-.. |image2| image:: ./media/image9.jpeg
-.. |image3| image:: ./media/image10.jpeg
+.. |image0| image:: ../media/image7.jpeg
+.. |image1| image:: ../media/image8.jpeg
+.. |image2| image:: ../media/image9.jpeg
+.. |image3| image:: ../media/image10.jpeg
