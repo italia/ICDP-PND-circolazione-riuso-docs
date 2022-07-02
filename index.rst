@@ -1,11 +1,14 @@
-**Piano nazionale di digitalizzazione del patrimonio culturale**
+Piano nazionale di digitalizzazione del patrimonio culturale
+============================================================
 
-Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale
-=====================================================================================================================
+2022-2023
+
+Linee guida per l’acquisizione, la circolazione e il riuso delle
+riproduzioni dei beni culturali in ambiente digitale
+
 |image0|
 
-**Versione in consultazione  2022-2023**
-
+**Versione 1.0 – giugno 2022**
 
 .. toctree::
   :maxdepth: 3
@@ -13,10 +16,16 @@ Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni 
 
   crediti.rst
   introduzione.rst
+
+
+.. toctree::
+  :maxdepth: 3
+  :numbered:
+
   contesto-normativo.rst
   acquisizione-circolazione-e-riuso-delle-riproduzioni-dei-beni-culturali-in-ambiente-digitale.rst
   principi-per-il-riuso-delle-riproduzioni-digitali-del-patrimonio-culturale-e-dei-relativi-metadati.rst
-  modalità-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare.rst
+  modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare.rst
   principi-per-la-definizione-dei-corrispettivi-di-riproduzione.rst
   bibliografia-essenziale.rst
 

@@ -1,5 +1,5 @@
-4.1 Definizioni di *Open Access*
-================================
+Definizioni di *Open Access*
+============================
 
 Il riuso del patrimonio informativo pubblico trova il suo fondamento nel
 principio dell’accesso aperto alla cultura. Per *Open Access* o “accesso
@@ -7,12 +7,12 @@ aperto” si intende l’accesso libero e senza barriere al sapere
 scientifico, come dichiara nel 2002 la *Budapest Open Access
 Initiative*, i cui principi sono stati in seguito riaffermati dalla
 *Berlin Declaration on open access to knowledge in the Sciences and
-Humanities* [33]_. Accanto alle istanze di “accesso aperto” ai prodotti
+Humanities* [1]_. Accanto alle istanze di “accesso aperto” ai prodotti
 della ricerca, si sviluppa progressivamente negli anni il principio di
 “dato aperto” con l’obiettivo di massimizzare il valore dei contenuti
 culturali prodotti in ambito pubblico. Una definizione di dato o
 contenuto "aperto" è fornita inoltre dalla *Open Knowledge
-Foundation*\  [34]_: "Un dato o contenuto è aperto se qualcuno è libero
+Foundation* [2]_: "Un dato o contenuto è aperto se qualcuno è libero
 di usarlo, riutilizzarlo e ridistribuirlo - soggetto solo, al massimo,
 al requisito di attribuire e/o condividere allo stesso modo”.
 
@@ -27,28 +27,28 @@ ritorno di informazione fornito da chi riutilizza dati e contenuti,
 permettendo agli enti pubblici di migliorare la qualità del loro
 patrimonio di conoscenza (cfr. par. 2.2).
 
-È inoltre lo stesso Codice dell’Amministrazione Digitale [35]_ a
-enunciare il principio dell’\ *open by default,* in base al quale, in
+È inoltre lo stesso Codice dell’Amministrazione Digitale [3]_ a
+enunciare il principio dell’*open by default*, in base al quale, in
 mancanza di ulteriori specifiche di utilizzo, i dati pubblicati in rete
 dalla pubblica amministrazione sono da considerarsi “aperti” *by
 default* (art. 52, comma 2), vale a dire “disponibili con una licenza o
 una previsione normativa che ne permetta l’utilizzo da parte di
 chiunque, anche per finalità commerciali, in formato disaggregato” (art.
-68) [36]_.
+1) [4]_.
 
 I principi cardine che inoltre devono essere adottati affinché si possa
 effettivamente parlare di *Open Access* sono i seguenti:
 
--  **Disponibilità e accesso**: le riproduzioni, e i metadati connessi,
+-  Disponibilità e accesso: le riproduzioni, e i metadati connessi,
    devono essere disponibili online nel loro complesso, in un formato
    aperto e modificabile, accessibili anche dalle macchine;
 
--  **Riutilizzo e ridistribuzione**: le riproduzioni e i metadati
-   connessi devono essere forniti a condizioni tali da permetterne il
-   riutilizzo e la ridistribuzione, dando la possibilità di combinarli
-   con altre basi di dati;
+-  Riutilizzo e ridistribuzione: le riproduzioni e i metadati connessi
+   devono essere forniti a condizioni tali da permetterne il riutilizzo
+   e la ridistribuzione, dando la possibilità di combinarli con altre
+   basi di dati;
 
--  **Partecipazione universale**: tutti devono essere in grado di usare,
+-  Partecipazione universale: tutti devono essere in grado di usare,
    riutilizzare e ridistribuire i dati. Non devono essere poste
    discriminazioni di ambiti di iniziativa in riferimento a soggetti o
    gruppi.
@@ -56,19 +56,19 @@ effettivamente parlare di *Open Access* sono i seguenti:
 La medesima impostazione si ritrova nella ormai nota definizione dei
 cosiddetti “principi FAIR”, secondo cui i contenuti della ricerca
 debbono essere rintracciabili (*Findable*), accessibili (*Accessible*),
-interoperabili (*Interoperable*) e riutilizzabili (*Re-usable*) [37]_,
+interoperabili (*Interoperable*) e riutilizzabili (*Re-usable*) [5]_,
 come peraltro è stato espressamente richiesto dalla citata
-raccomandazione (UE) 2021/1970 della Commissione Europea [38]_.
+raccomandazione (UE) 2021/1970 della Commissione Europea [6]_.
 
-Per le finalità dell’\ *Open Access* risulta infatti indispensabile
+Per le finalità dell’*Open Access* risulta infatti indispensabile
 garantire l‘accesso a risorse digitali di qualità, facilmente
 accessibili e pubblicate in formato aperto, e quindi modificabile,
 accompagnate da licenze e termini d’uso chiari e trasparenti. Questo
-facilita lo svilupparsi di forme di co-creazione e *crowdsourcing a*
-partire dai contenuti resi disponibili online, e in generale di tutte
-quelle attività (come laboratori, concorsi di idee, forme di
-co-curatela, ecc.) che possono facilitare l’interazione tra il luogo
-della cultura e il suo pubblico.
+facilita lo svilupparsi di forme di co-creazione e di crowdsourcing
+(inteso come sviluppo collettivo di un progetto) a partire dai contenuti
+resi disponibili online, e in generale di tutte quelle attività (come
+laboratori, concorsi di idee, forme di co-curatela, ecc.) che possono
+facilitare l’interazione tra il luogo della cultura e il suo pubblico.
 
 Infine è opportuno sottolineare come, di per sé, l’adozione di una
 licenza d’uso aperta rappresenti solo uno dei tasselli che compongono il
@@ -106,25 +106,26 @@ informativo e decontestualizzazione.
    dell’interoperabilità e dell’archiviazione a lungo termine”
    (https://openaccess.mpg.de/67682/BerlinDeclaration_it.pdf).
 
-.. [33] La Open Knowledge Foundation (https://okfn.org/) è una rete globale
+.. [2] La Open Knowledge Foundation (https://okfn.org/) è una rete globale
    senza scopo di lucro che promuove e condivide gratuitamente
    informazioni, inclusi contenuti e dati. È stata fondata da Rufus
    Pollock il 20 maggio 2004 e lanciata il 24 maggio 2004 a Cambridge,
    nel Regno Unito. È costituita in Inghilterra e Galles come società a
    responsabilità limitata.
 
-.. [34] Decreto legislativo 7 marzo 2005, n. 82 - Codice
+.. [3] Decreto legislativo 7 marzo 2005, n. 82 - Codice
    dell’amministrazione digitale.
 
-.. [35] Per una specifica trattazione sul tema generale dei dati aperti si
-   rimanda al documento *Linee guida e FAQ per la pubblicazione dei dati
+.. [4] Per una specifica trattazione sul tema generale dei dati aperti si
+   rimanda alle Linee guida per la redazione del piano di gestione dei
+   dati, che contiene una Allegato di FAQ *per la pubblicazione dei dati
    aperti*.
 
-.. [36] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/.
+.. [5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/.
 
-.. [37] "18. Gli Stati membri dovrebbero garantire che, grazie ai loro
+.. [6] ”18. Gli Stati membri dovrebbero garantire che, grazie ai loro
    interventi, i dati derivanti da progetti di digitalizzazione
    finanziati con fondi pubblici diventino e restino reperibili,
    accessibili, interoperabili e riutilizzabili («principi FAIR»)
    attraverso infrastrutture digitali (compreso lo spazio di dati) per
-   accelerare la condivisione dei dati".
+   accelerare la condivisione dei dati”.

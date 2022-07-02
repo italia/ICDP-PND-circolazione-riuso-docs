@@ -1,12 +1,12 @@
-5.4. Come pubblicare le riproduzioni
-====================================
+Come pubblicare le riproduzioni
+===============================
 
 Per la pubblicazione in rete delle riproduzioni di beni culturali di
 appartenenza statale gli istituti del MiC possono fare riferimento alle
 seguenti indicazioni che sintetizzano alcuni dei contenuti già
 richiamati nel presente documento:
 
--  La risoluzione (cfr. *Linee guida per la digitalizzazione del
+-  La risoluzione minima (cfr. *Linee guida per la digitalizzazione del
    patrimonio culturale* e relativo *Glossario*) delle immagini di beni
    culturali pubblicate in rete dagli istituti ministeriali dovrà essere
    compresa tra 2500 e 3500 pixel *sul lato lungo* in maniera tale da
@@ -22,7 +22,7 @@ richiamati nel presente documento:
 -  La pubblicazione in rete delle immagini deve essere sempre associata
    a un set di metadati esterno e interno alla riproduzione digitale che
    dovranno riportare non solo i dati identificativi dell’opera
-   riprodotta, ma anche informazioni sulle possibilità di riutilizzo
+   riprodotta, ma anche informazioni sulle condizioni di utilizzo
    dell’immagine medesima (cfr. par. 5.2).
 
 -  Per il *download* delle immagini può essere prevista una procedura di
@@ -38,3 +38,21 @@ richiamati nel presente documento:
    conoscenza più approfondita del pubblico dei fruitori in rete,
    consentirà di indirizzare meglio le politiche di valorizzazione
    promosse dagli istituti.
+
+Si suggerisce infine nella pubblicazione online delle riproduzioni
+digitali di utilizzare applicativi open source per la gestione e
+l'esposizione di risorse digitali che favoriscano l’interoperabilità fra
+progetti diversi; nello specifico, si raccomanda l’utilizzo del
+protocollo denominato IIIF (*International Image Interoperability
+Framework*)  [1]_ che consente la condivisione delle immagini tra
+istituzioni diverse (cfr. Linee guida per la redazione del piano di
+gestione dei dati).
+
+.. [1] Il framework IIIF è un insieme di specifiche per l’esposizione di
+   oggetti digitali di alta qualità su larga scala. Il progetto alla
+   base open source è sostenuto da una comunità internazionale e da un
+   consorzio di importanti istituzioni culturali ed è supportato da una
+   comunità internazionale che sviluppa e implementa le specifiche delle
+   API (Application Programming Interface) che lo costituiscono (cfr.
+   https://iiif.io/). Ad oggi è utilizzato dalle maggiori biblioteche in
+   tutto il mondo.
