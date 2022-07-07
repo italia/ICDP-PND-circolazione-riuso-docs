@@ -1,3 +1,5 @@
+.. _licenze_e_termini_d_uso:
+
 Licenze e termini d’uso
 =======================
 
@@ -76,7 +78,7 @@ manifestazione del pensiero o espressione creativa, promozione della
 conoscenza del patrimonio culturale” ai sensi dell’art. 108, comma
 3- *bis* del Codice dei beni culturali e, in particolare, nella
 dettagliata casistica di utilizzi gratuiti che figurano nel presente
-documento (cfr. par. 3.2). Qualsiasi utilizzo commerciale della
+documento (cfr. par. :ref:`tipologie_d_uso_delle_riproduzioni_di_beni_culturali`). Qualsiasi utilizzo commerciale della
 riproduzione contrassegnata da questa sigla dovrà di conseguenza essere
 preventivamente autorizzato dall’ente proprietario del bene culturale e
 potrà essere soggetto alla corresponsione di un corrispettivo economico
@@ -91,7 +93,7 @@ La qualifica di “standard” propria di questa etichetta si giustifica
 alla luce degli standard definiti nel presente documento. Di conseguenza
 gli Istituti che sceglieranno di introdurre eccezioni ai principi
 generali qui espressi, incluso quello della gratuità per gli usi
-editoriali (cfr. par. 3.2, U2) non potranno ricorrere a questo tipo di
+editoriali (cfr. par. :ref:`tipologie_d_uso_delle_riproduzioni_di_beni_culturali`, ::ref:`U2`) non potranno ricorrere a questo tipo di
 etichetta.
 
 .. [1] Può essere utile, a titolo esemplificativo, citare l’opera di

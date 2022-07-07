@@ -1,3 +1,5 @@
+.. _tipologie_d_uso_delle_riproduzioni_di_beni_culturali:
+
 Tipologie d’uso delle riproduzioni di beni culturali
 ====================================================
 
@@ -11,6 +13,8 @@ dell’utente.
 Di seguito sono elencate le principali finalità di Utilizzo delle
 immagini di beni culturali pubblici in pubblico dominio (**U1**-**U5**)
 disciplinate in base al Codice dei beni culturali.
+
+.. _U1:
 
 U1. Fini di studio, ricerca, libera manifestazione del pensiero o espressione creativa
 --------------------------------------------------------------------------------------
@@ -61,6 +65,8 @@ immagini nell’ambito di eventi pubblici o privati. In ogni caso il
 carattere commerciale proprio dei più comuni *social network* non
 permette di qualificare come attività lucrativa la semplice
 “condivisione” di immagini in simili piattaforme [4]_.
+
+.. _U2:
 
 U2. Usi editoriali
 ------------------
@@ -127,12 +133,14 @@ Il principio generale di gratuità per le pubblicazioni editoriali, al
 pari degli altri casi di riutilizzo disciplinati nel presente paragrafo,
 è parte integrante del contenuto dell’etichetta “BC Standard” concepita
 per facilitare il rilascio in rete delle immagini del patrimonio
-culturale statale (cfr. par. 5.2). Eventuali deroghe a questo principio
+culturale statale (cfr. par. :ref:`licenze_e_termini_d_uso`). Eventuali deroghe a questo principio
 potranno essere introdotte dagli istituti, motivatamente, solo per
 prodotti editoriali venduti a un prezzo di copertina superiore a 70
 euro. In tali eccezioni, non potendo utilizzare l’etichetta BC Standard,
 i termini d’uso dovranno essere dettagliati dagli istituti interessati
 nella pagina web dedicata [6]_.
+
+.. _U3:
 
 U3. Usi connessi con l’impresa culturale e l’industria creativa
 ---------------------------------------------------------------
@@ -178,6 +186,8 @@ applicazioni informatiche commerciali fruite a pagamento deve essere
 infine richiesta l’autorizzazione e il versamento di un corrispettivo
 all’istituto che conserva i beni riprodotti.
 
+.. _U4:
+
 U4. Usi pubblicitari e commerciali
 ----------------------------------
 
@@ -195,6 +205,8 @@ del bene in presenza o meno di grafiche realizzate a scopo promozionale
 o pubblicitario, e infine l’utilizzo delle riproduzioni come
 ambientazione per eventi o attività commerciali (ad esempio fondali per
 sfilate di moda o all’interno di spazi commerciali).
+
+.. _U5:
 
 U5. Licensing e vendita di immagini
 -----------------------------------

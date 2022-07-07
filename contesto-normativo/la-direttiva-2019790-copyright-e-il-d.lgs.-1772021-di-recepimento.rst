@@ -1,3 +1,5 @@
+.. _direttiva_2019_790:
+
 La direttiva 2019/790 (Copyright) e il d.lgs. 177/2021 di recepimento [1]_
 ==========================================================================
 
@@ -81,7 +83,7 @@ riassunte come segue:
    ogni caso operano entro un ambito diverso dal diritto d’autore. Per
    l'Italia si tratta di una novità non trascurabile perché gli istituti
    culturali pubblici nell’adottare licenze Creative Commons (cfr. par.
-   5.1; 5.2) hanno fatto leva, talvolta inconsapevolmente, sui diritti
+   :ref:`cosa_sono_le_licenze`; :ref:`licenze_e_termini_d_uso`) hanno fatto leva, talvolta inconsapevolmente, sui diritti
    connessi delle riproduzioni fotografiche, sovrapponendo di fatto la
    disciplina del diritto d’autore alla disciplina del Codice dei beni
    culturali, espressamente fatta salva nel dispositivo dell’art.

@@ -1,3 +1,5 @@
+.. _modalita_di_acquisizione_delle_riproduzioni:
+
 Modalità di acquisizione delle riproduzioni
 ===========================================
 
@@ -14,6 +16,8 @@ fondo al presente paragrafo.
 
 *- Riproduzioni eseguite da privati in autonomia -*
 
+.. _A1:
+
 A1. Riproduzioni eseguite da privati con mezzo proprio senza *flash* e/o treppiedi e/o dispositivo a contatto
 -------------------------------------------------------------------------------------------------------------
 
@@ -27,13 +31,15 @@ mettere a rischio l’integrità fisica del bene culturale oggetto di
 riproduzione. L’utilizzo di tali dispositivi tecnici quindi non è
 libero, dovendo essere autorizzato preventivamente dall’ente che ha in
 consegna il bene il quale, in caso di assenso, detterà le relative
-prescrizioni a tutela del bene da riprodurre (cfr. **A2**).
+prescrizioni a tutela del bene da riprodurre (cfr. :ref:`A2`).
 
 **Esempio:** *l’utente si serve della propria fotocamera o* smartphone
 *senza ricorrere a flash, treppiedi o stativi per riprodurre un
 monumento, un’opera museale, un documento d’archivio o un’opera
 conservata in biblioteca. In questi casi può farlo gratuitamente e senza
 dover richiedere alcuna autorizzazione.*
+
+.. _A2:
 
 A2. Riproduzioni eseguite da privati con mezzo proprio con l’ausilio di *flash* e/o treppiedi e/o dispositivo a contatto o mediante drone
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -45,7 +51,7 @@ che ha in consegna il bene oggetto di riproduzione. Qualora l’uso di
 tale strumentazione comporti un’occupazione significativa degli spazi
 interni al luogo della cultura, tale da condizionarne la fruizione da
 parte del pubblico, può essere richiesto un canone di concessione legato
-all'uso temporaneo degli spazi (cfr. **A3**). Per quanto riguarda le
+all'uso temporaneo degli spazi (cfr. :ref:`A3`). Per quanto riguarda le
 riproduzioni effettuate attraverso drone, si rimanda alla specifica
 normativa di settore [1]_.
 
@@ -55,6 +61,8 @@ un’ottima qualità alla riproduzione che desidera effettuare all’interno
 di un luogo della cultura (museo, biblioteca, archivio, parco o area
 archeologica). In questi casi egli dovrà richiedere un’autorizzazione
 specifica all’istituto che ha in consegna il bene da riprodurre.*
+
+.. _A3:
 
 A3. Riproduzioni eseguite da privati previa concessione d'uso degli spazi
 -------------------------------------------------------------------------
@@ -70,7 +78,7 @@ autorizzato preventivamente per garantire adeguati livelli di tutela ai
 beni culturali nel rispetto delle esigenze minime di fruizione pubblica
 dei medesimi spazi; viceversa il canone di concessione si giustifica qui
 come forma di risarcimento economico alla collettività per una forma di
-utilizzo del bene tipicamente “rivale” ed escludente (cfr. cap. 4).
+utilizzo del bene tipicamente “rivale” ed escludente (cfr. cap. :ref:`principi_riuso`).
 
 **Esempio:** *Un fotografo/regista ha necessità di occupare
 temporaneamente con proprie attrezzature che saranno installate dalla
@@ -80,6 +88,8 @@ questo scopo egli dovrà inviare all’istituto di riferimento una
 richiesta di concessione d’uso degli spazi da occupare per le riprese.*
 
 *- Riproduzioni richieste all’amministrazione -*
+
+.. _A4:
 
 A4. Riproduzioni richieste da privati e prodotte *ex novo* dall’amministrazione
 -------------------------------------------------------------------------------
@@ -102,7 +112,7 @@ certo funzionali alla “protezione” del bene culturale; al contrario,
 riproduzioni di scarsa qualità contribuiscono al proliferare in rete di
 immagini “spazzatura” che non liberano alcun valore culturale mentre, al
 contrario, ostacolano la corretta conoscenza del bene culturale stesso
-(cfr. par. 5.4).
+(cfr. par. :ref:`come_pubblicare_le_riproduzioni`).
 
 **Esempio:** *l’utente chiede all’istituto di ottenere una riproduzione
 del bene culturale che non è altrimenti riuscito ad acquisire. La
@@ -113,6 +123,8 @@ chiedere all’istituto di eseguire una riproduzione ex novo del bene
 medesimo. In questo caso egli dovrà corrispondere all’istituto (o alla
 società/professionista che gestisce il servizio di riproduzione) un
 corrispettivo per l’esecuzione e la fornitura della riproduzione.*
+
+.. _A5:
 
 A5. Riproduzioni richieste da soggetti pubblici da produrre *ex novo*
 ---------------------------------------------------------------------
@@ -132,6 +144,8 @@ le riproduzioni gratuitamente e ne cura l’invio all’ente richiedente.
 L’archivio valuta altresì l’opportunità di procedere alla stipula di una
 convenzione o di un protocollo d’intesa* ad hoc.
 
+.. _A6:
+
 A6. Riproduzioni richieste da privati già presenti in banche dati locali ma non pubblicate online
 -------------------------------------------------------------------------------------------------
 
@@ -139,7 +153,7 @@ Qualora la riproduzione di un bene sia già presente nella banca dati
 dell’ente che ha in consegna il bene stesso, ma non ancora disponibile
 online, essa potrà essere consegnata al richiedente dietro pagamento di
 un rimborso spese per l’attività di ricerca e messa a disposizione
-dell’immagine stessa. Anche in questo caso (cfr. **A4**) il rimborso
+dell’immagine stessa. Anche in questo caso (cfr. :ref:`A4`) il rimborso
 spese non dovrà essere parametrato sulla risoluzione della riproduzione
 effettuata ma andrà definito in ragione dei costi amministrativi e
 gestionali sostenuti dall’ente per soddisfare la richiesta. Qualora la
@@ -154,6 +168,8 @@ identificativi del bene culturale. L’istituto provvede a individuare il
 file digitale nelle proprie banche dati e si occupa dell’invio del file
 digitale all’utente, il quale corrisponderà all’istituto una tariffa a
 titolo di rimborso spese per l’amministrazione.*
+
+.. _A7:
 
 A7. Riproduzioni richieste da soggetti pubblici già presenti in banche dati locali ma non pubblicate online
 -----------------------------------------------------------------------------------------------------------
@@ -173,6 +189,8 @@ descrittivi previa citazione della provenienza.*
 
 *- Riproduzioni acquisite online -*
 
+.. _A8:
+
 A8. Riproduzioni acquisite da soggetti pubblici o privati dai siti web istituzionali del MiC mediante *download*
 ----------------------------------------------------------------------------------------------------------------
 
@@ -187,13 +205,13 @@ extra, interrogazioni di banche dati correlate, altissima definizione)
 può essere richiesta all’utente una compartecipazione alle spese
 sostenute dall’ente per la raccolta e l’organizzazione avanzata dei
 contenuti digitali, in armonia con le previsioni della direttiva europea
-PSI (cfr. par. 2.2). La scelta dell’istituto di rendere l’immagine non
+PSI (cfr. par. :ref:`direttiva_2019_1024`). La scelta dell’istituto di rendere l’immagine non
 solo disponibile in rete, ma anche scaricabile (con o senza preventiva
 registrazione al sito) va dunque incoraggiata; in ogni caso vanno
 esplicitati i termini d’uso delle riproduzioni mediante l’apposizione
-dell’etichetta BC Standard (cfr. par. 5.2).
+dell’etichetta BC Standard (cfr. par. :ref:`licenze_e_termini_d_uso`).
 
-Coerentemente con quanto già rilevato in precedenza (cfr. **A4**), il
+Coerentemente con quanto già rilevato in precedenza (cfr. :ref:`A4`), il
 *download* di immagini a bassa risoluzione va evitato, in quanto rischia
 di ostacolare forme di fruizione, godibilità e riutilizzabilità
 dell’immagine, anche soltanto per i fini non lucrativi ammessi dalla
@@ -221,8 +239,10 @@ circoscritto nel tempo che gli consentirà di scaricare un numero
 predeterminato di immagini potendo godere eventualmente di altri servizi
 aggiuntivi messi a disposizione dall’istituto.*
 
-*Cfr.* Linee guida per la classificazione di prodotti e servizi
-digitali, processi e modelli di gestione.
+.. _Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione: https://docs.italia.it/italia/icdp/icdp-pnd-servizi-docs/
+*Cfr.* `Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione`_.
+
+.. _A9:
 
 A9. Riproduzioni acquisite da soggetti pubblici o privati dai siti web di terze parti mediante download
 -------------------------------------------------------------------------------------------------------
@@ -244,7 +264,7 @@ un’attività di sfruttamento economico dell’immagine del bene stesso, la
 quale prevede il rilascio di un’autorizzazione da parte dell’ente
 proprietario del bene e la corresponsione del relativo corrispettivo
 d’uso ai sensi dell’art. 108, comma 3- *bis* del Codice dei beni
-culturali (cfr. **U5**).
+culturali (cfr. :ref:`U5`).
 
 **Esempio:** *i membri di una Pro Loco hanno scattato alcune fotografie
 riproducenti l’area archeologica aperta di recente nel quartiere.
@@ -256,6 +276,8 @@ beni archeologici dai social e dal sito web della Pro Loco rimanendo
 responsabili di tutti i successivi utilizzi che potranno farne.*
 
 *- Altre forme di acquisizione -*
+
+.. _A10:
 
 A10. Acquisizione di riproduzioni massive di intere serie o di parti sostanziali di collezioni
 ----------------------------------------------------------------------------------------------
@@ -276,8 +298,8 @@ culturale. Va detto che, in ogni caso, agli istituti di tutela rimane
 riservato il monopolio dell’alta risoluzione nelle riprese
 professionali, dal momento che per l’uso di treppiedi, *flash* e
 strumenti di scansione a contatto sarà sempre necessaria
-un’autorizzazione (**A2**), eventualmente da affiancare a una richiesta
-di concessione d’uso degli spazi (**A3**).
+un’autorizzazione (:ref:`A2`), eventualmente da affiancare a una richiesta
+di concessione d’uso degli spazi (:ref:`A3`).
 
 **Esempio:** *un’associazione culturale ha intenzione di avviare
 un’attività di riproduzione sistematica della collezione statuaria
@@ -294,10 +316,10 @@ A11. Riproduzioni ad altissima definizione di beni culturali
 Nel caso un soggetto pubblico o privato volesse realizzare copie ad
 altissima definizione di beni culturali pubblici da destinare al mercato
 degli NFT (*Non-Fungible Token*) [4]_ sarà necessario fare ricorso a
-strumenti di riproduzione professionali (**A3**) che possono richiedere
-forme di occupazione degli spazi interni all’istituto (**A4**), ma anche
+strumenti di riproduzione professionali (:ref:`A3`) che possono richiedere
+forme di occupazione degli spazi interni all’istituto (:ref:`A4`), ma anche
 sottoscrivere uno specifico contratto d’uso con l’istituto che ha in
-consegna il bene (**U5**). Questa specifica fattispecie, solo
+consegna il bene (:ref:`U5`). Questa specifica fattispecie, solo
 recentemente diventata d’attualità anche per il patrimonio culturale,
 sarà oggetto di specifica prossima regolamentazione da parte del MiC.
 

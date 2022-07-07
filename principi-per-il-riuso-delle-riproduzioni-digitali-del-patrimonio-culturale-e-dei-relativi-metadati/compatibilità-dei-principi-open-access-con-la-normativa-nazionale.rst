@@ -43,7 +43,7 @@ base dei seguenti punti di convergenza:
    culturali non protetti da diritto d’autore non sarà possibile
    utilizzare la formula “© Copyright, tutti i diritti riservati” o
    altre licenze Creative Commons, ma si dovrà ricorrere all’etichetta
-   “BC standard” (cfr. par. 5.2). Nel caso di partecipazione a progetti
+   “BC standard” (cfr. par. :ref:`licenze_e_termini_d_uso`). Nel caso di partecipazione a progetti
    sovranazionali, potranno essere presi in considerazioni termini d’uso
    differenti, in armonia con quanto previsto nel progetto stesso,
    purché espressamente autorizzati;
@@ -60,7 +60,7 @@ corrispettivi dovranno essere privilegiate forme il più possibile
 automatizzate e semplici per gli utenti, rispettando le previsioni dei
 pagamenti elettronici della pubblica amministrazione (PagoPA).
 
-.. [1] Cfr. nota 10.
+.. [1] Cfr. nota 4 :ref:`direttiva_2019_1024`.
 
-.. [2] Cfr. Linee guida per la redazione del piano digestione dei dati
-   (Data Management Plan), allegato tecnico n. 2 al PND.
+.. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
+.. [2] Cfr. `Linee guida per la redazione del piano di gestione dei dati`_, allegato tecnico n. 2 al PND.

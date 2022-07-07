@@ -1,3 +1,5 @@
+.. _principi_riuso:
+
 Principi per il riuso delle riproduzioni digitali del patrimonio culturale e dei relativi metadati
 ==================================================================================================
 

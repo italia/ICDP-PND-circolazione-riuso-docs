@@ -1,3 +1,5 @@
+.. _cosa_sono_le_licenze:
+
 Cosa sono le licenze
 ====================
 

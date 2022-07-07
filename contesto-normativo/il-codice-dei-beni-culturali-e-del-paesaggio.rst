@@ -1,3 +1,5 @@
+.. _codice_dei_beni_culturali:
+
 Il Codice dei beni culturali e del paesaggio
 ============================================
 

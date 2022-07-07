@@ -13,13 +13,15 @@ sui **B**\ eni culturali da riprodurre e con “\ **R1**-**R2**\ ” le
 tipologie di **R**\ iproduzione. Si rinvia infine al quadro di sintesi
 riportato in fondo al presente paragrafo.
 
+.. _B1:
+
 B1. Beni culturali pubblici in pubblico dominio
 -----------------------------------------------
 
 Sui *beni culturali in pubblico dominio*\  [1]_ (**B1**) non gravano per
 definizione privative di tutela del diritto d’autore. Le riproduzioni in
 questo caso soggiacciono esclusivamente al Codice dei beni culturali e,
-eventualmente, alle norme sulla tutela della riservatezza (cfr. **B3**).
+eventualmente, alle norme sulla tutela della riservatezza (cfr. :ref:`B3`).
 
 Le *riproduzioni fedeli* o *mere riproduzioni* (**R1**), prive di
 carattere creativo, di beni culturali non protetti da diritto d’autore
@@ -34,7 +36,7 @@ creativo e originale tale da poter prefigurare la costituzione di
 un’opera creativa; trova quindi applicazione l’art. 32-\ *quater* della
 LdA [2]_, che stabilisce che le riproduzioni fedeli di opere per le
 quali siano scaduti i termini della protezione del diritto d’autore non
-sono soggette a loro volta al diritto d’autore (cfr. par. 2.3). Non
+sono soggette a loro volta al diritto d’autore (cfr. par. :ref:`direttiva_2019_790`). Non
 appare dunque più congruente la pratica adottata da molti istituti
 culturali di rilasciare in rete le riproduzioni dei beni culturali sotto
 © Copyright (tutti i diritti riservati), dal momento che tale dicitura
@@ -43,8 +45,8 @@ culturali, ma non trova presupposti nemmeno nella LdA; per lo stesso
 motivo, si ritengono non applicabili le licenze *Creative Commons* per
 la circolazione delle riproduzioni fedeli di beni culturali pubblici in
 pubblico dominio, giacché tali licenze agiscono esclusivamente nella
-sfera del diritto d’autore e dei diritti connessi (cfr. cap. 4; par.
-5.1).
+sfera del diritto d’autore e dei diritti connessi (cfr. cap. :ref:`principi_riuso`; par.
+:ref:`cosa_sono_le_licenze`).
 
 Le *riproduzioni creative* (**R2**) di beni culturali sono invece
 riproduzioni alle quali l’autore è riuscito a imprimere un livello di
@@ -110,9 +112,11 @@ nell’ordinamento giuridico nel 1902, per effetto dell’entrata in vigore
 della legge 12 giugno 1902, n. 185 (cd. legge Nasi) [4]_, le fotografie
 realizzate prima di tale anno possono infatti essere considerate
 estranee alla disciplina codicistica per quanto attiene la riproduzione
-del monumento (cfr. par. 2.1), mentre vi rientrano a pieno titolo se le
+del monumento (cfr. par. :ref:`codice_dei_beni_culturali`), mentre vi rientrano a pieno titolo se le
 medesime fotografie, materialmente intese, sono, in quanto tali, beni
 culturali pubblici.
+
+.. _B2:
 
 B2. Beni culturali pubblici protetti da diritto d’autore
 ---------------------------------------------------------
@@ -144,7 +148,7 @@ diritto non abbia stabilito diversamente nell’atto di disposizione
 diritto d’autore può comunque essere riprodotto dall’istituto di tutela
 se si qualifica come opera fuori commercio, ma anche per finalità di
 conservazione in base alle eccezioni recepite nella LdA a seguito
-dell‘implementazione della direttiva 2019/790 (cfr. par. 2.3). La LdA
+dell‘implementazione della direttiva 2019/790 (cfr. par. :ref:`direttiva_2019_790`). La LdA
 prevede anche eccezioni (art. 70) quali la possibilità di effettuare il
 riassunto, la citazione o la riproduzione di brani o di parti di opera e
 la loro comunicazione al pubblico per uso di critica o di discussione;
@@ -161,6 +165,8 @@ diritto d’autore è necessario, infine, tener conto di tre diversi
 profili giuridici, che andranno regolati da aspecifici accordi: i
 diritti dell’autore dell’opera, i diritti dell’autore delle riproduzioni
 e la disciplina del Codice dei beni culturali.
+
+.. _B3:
 
 B3. Beni archivistici pubblici caratterizzati da problematiche di riservatezza
 -------------------------------------------------------------------------------

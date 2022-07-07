@@ -6,7 +6,7 @@ all’autorità amministrativa che ha in consegna i beni la determinazione
 dei relativi corrispettivi di riproduzione, da quantificare in base ai
 mezzi e alle modalità di esecuzione delle riproduzioni, al loro uso e
 destinazione e ai benefici economici per il richiedente in presenza di
-forme di riuso commerciale (cfr. par. 3.2). Tale principio, è bene
+forme di riuso commerciale (cfr. par. :ref:`tipologie_d_uso_delle_riproduzioni_di_beni_culturali`). Tale principio, è bene
 sottolineare, opera indipendentemente dal canale di acquisizione della
 riproduzione, sia nel caso in cui la riproduzione venga prodotta da un
 privato con mezzi propri sia nel caso in cui la riproduzione venga,
@@ -21,7 +21,7 @@ contenenti dati pubblici. Una deroga al principio di gratuità ivi
 espressa è tuttavia ammessa per i contenuti prodotti e resi disponibili
 da biblioteche, comprese quelle universitarie, musei e archivi, in
 ragione dell’onerosità delle attività di produzione e conservazione dei
-dati del patrimonio culturale (cfr. par. 2.2).
+dati del patrimonio culturale (cfr. par. :ref:`direttiva_2019_1024`).
 
 In particolare, nella determinazione dei corrispettivi il totale delle
 entrate provenienti dalla fornitura e dall’autorizzazione al riutilizzo
@@ -76,7 +76,7 @@ di iniziative di abbonamento o *membership -* che siano comunque
 gestibili in modalità completamente automatizzata e smaterializzata e
 consone a un contesto di innovazione digitale. In questo modo si potrà
 meglio graduare l’offerta di servizi in base alle attese e agli
-interessi dei differenti segmenti di utenza (cfr. par. 3.1, A8).
+interessi dei differenti segmenti di utenza (cfr. par. :ref:`modalita_di_acquisizione_delle_riproduzioni`, :ref:`A8`).
 
 Un elenco non esaustivo di possibili modelli per la determinazione delle
 tariffe è riportato nelle *Linee guida per la valorizzazione del

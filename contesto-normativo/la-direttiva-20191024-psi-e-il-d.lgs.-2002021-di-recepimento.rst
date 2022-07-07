@@ -1,3 +1,5 @@
+.. _direttiva_2019_1024:
+
 La direttiva 2019/1024 (PSI) e il d.lgs. 200/2021 di recepimento [1]_
 =====================================================================
 
@@ -61,7 +63,7 @@ limita invece a stabilire come mera eventualità l’imposizione di costi
 aggiuntivi, con un rinvio espresso alla disciplina sulle riproduzioni
 presente nel Codice dei beni culturali [4]_. Ciò, come si vedrà, ha
 importanti riflessi sul piano delle licenze di rilascio delle immagini
-in rete da parte degli istituti culturali pubblici (cfr. cap. 4; 5).
+in rete da parte degli istituti culturali pubblici (cfr. cap. :ref:`principi_riuso`; :ref:`modalita_pubblicazione`).
 
 Alla data di emanazione delle presenti Linee guida, sono in corso di
 redazione da parte di AgID le nuove *Linee Guida recanti regole tecniche
@@ -96,7 +98,7 @@ ancora valide.
    normativi <http://www.aedon.mulino.it/archivio/2018/3/casini.htm>`__,
    in *Aedon*, 3, 2018).
 
-.. [4] La nuova formulazione del’art. 1 comma 2 del d.lgs. n. 36/2006,
+.. [4] La nuova formulazione dell’art. 1 comma 2 del d.lgs. n. 36/2006,
    chiarisce che sono inclusi nell’ambito di applicazione della norma i
    documenti i cui diritti di proprietà intellettuale sono detenuti da
    biblioteche, comprese le biblioteche universitarie, i musei e gli
@@ -115,7 +117,7 @@ ancora valide.
    relazione a forme di riutilizzo commerciale già normate dall’art. 108
    del Codice dei beni culturali ma anche, eventualmente, alla semplice
    acquisizione di riproduzioni digitali pubblicate nei siti web degli
-   istituti (cfr. par. 3.1, A8).
+   istituti (cfr. par. :ref:`modalita_di_acquisizione_delle_riproduzioni`, :ref:`A8`).
 
 .. [5] Le Linee guida, redatte da AgID in ottemperanza all’art. 13 del
    d.lgs. 36/2006, alla data attuale in consultazione pubblica, sono

@@ -25,7 +25,7 @@ utenti finali - e la società in generale - ma in molti casi anche per lo
 stesso ente pubblico grazie alla promozione della trasparenza e al
 ritorno di informazione fornito da chi riutilizza dati e contenuti,
 permettendo agli enti pubblici di migliorare la qualità del loro
-patrimonio di conoscenza (cfr. par. 2.2).
+patrimonio di conoscenza (cfr. par. :ref:`direttiva_2019_1024`).
 
 È inoltre lo stesso Codice dell’Amministrazione Digitale [3]_ a
 enunciare il principio dell’*open by default*, in base al quale, in

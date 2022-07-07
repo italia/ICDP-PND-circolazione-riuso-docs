@@ -1,3 +1,5 @@
+.. _come_pubblicare_le_riproduzioni:
+
 Come pubblicare le riproduzioni
 ===============================
 
@@ -6,8 +8,8 @@ appartenenza statale gli istituti del MiC possono fare riferimento alle
 seguenti indicazioni che sintetizzano alcuni dei contenuti già
 richiamati nel presente documento:
 
--  La risoluzione minima (cfr. *Linee guida per la digitalizzazione del
-   patrimonio culturale* e relativo *Glossario*) delle immagini di beni
+.. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs
+-  La risoluzione minima (cfr. `Linee guida per la digitalizzazione del patrimonio culturale`_ e relativo *Glossario*) delle immagini di beni
    culturali pubblicate in rete dagli istituti ministeriali dovrà essere
    compresa tra 2500 e 3500 pixel *sul lato lungo* in maniera tale da
    risultare idonea a garantire non solo attività di studio e ricerca ma
@@ -17,13 +19,13 @@ richiamati nel presente documento:
 -  È da escludere la sovraimpressione, all’interno dell’immagine, di
    filigrane invasive. Queste ultime possono essere ammesse,
    eventualmente, solo nella cornice esterna alla riproduzione stessa
-   (cfr. par. 3.1, A8).
+   (cfr. par. :ref:`modalita_di_acquisizione_delle_riproduzioni`, :ref:`A8`).
 
 -  La pubblicazione in rete delle immagini deve essere sempre associata
    a un set di metadati esterno e interno alla riproduzione digitale che
    dovranno riportare non solo i dati identificativi dell’opera
    riprodotta, ma anche informazioni sulle condizioni di utilizzo
-   dell’immagine medesima (cfr. par. 5.2).
+   dell’immagine medesima (cfr. par. :ref:`licenze_e_termini_d_uso`).
 
 -  Per il *download* delle immagini può essere prevista una procedura di
    registrazione dell’utenza al fine di favorirne l’identificazione e la
@@ -39,14 +41,15 @@ richiamati nel presente documento:
    consentirà di indirizzare meglio le politiche di valorizzazione
    promosse dagli istituti.
 
+.. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
+
 Si suggerisce infine nella pubblicazione online delle riproduzioni
 digitali di utilizzare applicativi open source per la gestione e
 l'esposizione di risorse digitali che favoriscano l’interoperabilità fra
 progetti diversi; nello specifico, si raccomanda l’utilizzo del
 protocollo denominato IIIF (*International Image Interoperability
 Framework*)  [1]_ che consente la condivisione delle immagini tra
-istituzioni diverse (cfr. Linee guida per la redazione del piano di
-gestione dei dati).
+istituzioni diverse (cfr. `Linee guida per la redazione del piano di gestione dei dati`_).
 
 .. [1] Il framework IIIF è un insieme di specifiche per l’esposizione di
    oggetti digitali di alta qualità su larga scala. Il progetto alla
