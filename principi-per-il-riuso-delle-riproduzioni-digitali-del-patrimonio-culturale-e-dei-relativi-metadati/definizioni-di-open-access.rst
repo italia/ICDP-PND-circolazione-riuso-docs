@@ -81,30 +81,7 @@ contenuti culturali, se fatti circolare senza il corredo informativo
 essenziale, saranno inevitabilmente esposti a rischi di impoverimento
 informativo e decontestualizzazione.
 
-.. [1]
-    “Ciascun contributo ad accesso aperto deve soddisfare due requisiti:
-   1. L’autore(i) ed il detentore(i) dei diritti relativi a tale
-   contributo garantiscono a tutti gli utilizzatori il diritto d’accesso
-   gratuito, irrevocabile ed universale e l’autorizzazione a riprodurlo,
-   utilizzarlo, distribuirlo, trasmetterlo e mostrarlo pubblicamente e a
-   produrre e distribuire lavori da esso derivati in ogni formato
-   digitale per ogni scopo responsabile, soggetto all’attribuzione
-   autentica della paternità intellettuale (le pratiche della comunità
-   scientifica manterranno i meccanismi in uso per imporre una corretta
-   attribuzione ed un uso responsabile dei contributi resi pubblici come
-   avviene attualmente), nonché il diritto di riprodurne una quantità
-   limitata di copie stampate per il proprio uso personale. 2. Una
-   versione completa del contributo e di tutti i materiali che lo
-   corredano, inclusa una copia della autorizzazione come sopra
-   indicato, in un formato elettronico secondo uno standard appropriato,
-   è depositata (e dunque pubblicata) in almeno un archivio in linea che
-   impieghi standard tecnici adeguati (come le definizioni degli *Open
-   Archives*) e che sia supportato e mantenuto da un’istituzione
-   accademica, una società scientifica, un’agenzia governativa o ogni
-   altra organizzazione riconosciuta che persegua gli obiettivi
-   dell’accesso aperto, della distribuzione illimitata,
-   dell’interoperabilità e dell’archiviazione a lungo termine”
-   (https://openaccess.mpg.de/67682/BerlinDeclaration_it.pdf).
+.. [1] “Ciascun contributo ad accesso aperto deve soddisfare due requisiti: L’autore(i) ed il detentore(i) dei diritti relativi a tale contributo garantiscono a tutti gli utilizzatori il diritto d’accesso gratuito, irrevocabile ed universale e l’autorizzazione a riprodurlo, utilizzarlo, distribuirlo, trasmetterlo e mostrarlo pubblicamente e a produrre e distribuire lavori da esso derivati in ogni formato digitale per ogni scopo responsabile, soggetto all’attribuzione autentica della paternità intellettuale (le pratiche della comunità scientifica manterranno i meccanismi in uso per imporre una corretta attribuzione ed un uso responsabile dei contributi resi pubblici come avviene attualmente), nonché il diritto di riprodurne una quantità limitata di copie stampate per il proprio uso personale. 2. Una versione completa del contributo e di tutti i materiali che lo corredano, inclusa una copia della autorizzazione come sopra indicato, in un formato elettronico secondo uno standard appropriato, è depositata (e dunque pubblicata) in almeno un archivio in linea che impieghi standard tecnici adeguati (come le definizioni degli *Open Archives*) e che sia supportato e mantenuto da un’istituzione accademica, una società scientifica, un’agenzia governativa o ogni altra organizzazione riconosciuta che persegua gli obiettivi dell’accesso aperto, della distribuzione illimitata, dell’interoperabilità e dell’archiviazione a lungo termine” (https://openaccess.mpg.de/67682/BerlinDeclaration_it.pdf).
 
 .. [2] La Open Knowledge Foundation (https://okfn.org/) è una rete globale
    senza scopo di lucro che promuove e condivide gratuitamente

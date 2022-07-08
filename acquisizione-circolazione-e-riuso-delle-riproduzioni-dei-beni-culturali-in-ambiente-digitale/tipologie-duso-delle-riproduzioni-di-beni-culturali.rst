@@ -290,20 +290,7 @@ di trasparenza previste dalla normativa [8]_.
    sono comunque tenuti al rimborso delle spese sostenute
    dall'amministrazione concedente”.
 
-.. [2]
-    Art. 108, comma 3- *bis*: “Sono in ogni caso libere le seguenti
-   attività, svolte senza scopo di lucro, per finalità di studio,
-   ricerca, libera manifestazione del pensiero o espressione creativa,
-   promozione della conoscenza del patrimonio culturale: 1) la
-   riproduzione di beni culturali diversi dai beni archivistici
-   sottoposti a restrizioni di consultabilità ai sensi del capo III del
-   presente titolo, attuata nel rispetto delle disposizioni che tutelano
-   il diritto di autore e con modalità che non comportino alcun contatto
-   fisico con il bene, né l'esposizione dello stesso a sorgenti
-   luminose, né, all'interno degli istituti della cultura, l'uso di
-   stativi o treppiedi; 2) la divulgazione con qualsiasi mezzo delle
-   immagini di beni culturali, legittimamente acquisite, in modo da non
-   poter essere ulteriormente riprodotte a scopo di lucro”.
+.. [2] Art. 108, comma 3- *bis*: “Sono in ogni caso libere le seguenti attività, svolte senza scopo di lucro, per finalità di studio, ricerca, libera manifestazione del pensiero o espressione creativa promozione della conoscenza del patrimonio culturale: 1) la riproduzione di beni culturali diversi dai beni archivistici sottoposti a restrizioni di consultabilità ai sensi del capo III del presente titolo, attuata nel rispetto delle disposizioni che tutelano il diritto di autore e con modalità che non comportino alcun contatto fisico con il bene, né l'esposizione dello stesso a sorgenti luminose, né, all'interno degli istituti della cultura, l'uso di stativi o treppiedi; 2) la divulgazione con qualsiasi mezzo delle immagini di beni culturali, legittimamente acquisite, in modo da non poter essere ulteriormente riprodotte a scopo di lucro”.
 
 .. [3] Qualora l’amministrazione realizzi delle banche dati
    specificatamente indirizzate a soddisfare le esigenze dei

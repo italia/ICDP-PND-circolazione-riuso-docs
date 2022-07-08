@@ -14,7 +14,6 @@ Gli undici canali di acquisizione si trovano infine rappresentati
 graficamente nel quadro sinottico e nel diagramma di flusso riportato in
 fondo al presente paragrafo.
 
-*- Riproduzioni eseguite da privati in autonomia -*
 
 .. _A1:
 
@@ -87,7 +86,6 @@ effettuare una campagna di riprese fotografiche/cinematografiche. A
 questo scopo egli dovrà inviare all’istituto di riferimento una
 richiesta di concessione d’uso degli spazi da occupare per le riprese.*
 
-*- Riproduzioni richieste all’amministrazione -*
 
 .. _A4:
 
@@ -274,8 +272,6 @@ favorirne al massimo la condivisione e la libera circolazione nel web.
 Gli utenti si trovano quindi a scaricare liberamente le immagini dei
 beni archeologici dai social e dal sito web della Pro Loco rimanendo
 responsabili di tutti i successivi utilizzi che potranno farne.*
-
-*- Altre forme di acquisizione -*
 
 .. _A10:
 

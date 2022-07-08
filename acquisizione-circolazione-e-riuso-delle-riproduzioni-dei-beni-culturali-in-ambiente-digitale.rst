@@ -1,4 +1,6 @@
-Acquisizione, circolazione e riuso delle riproduzioni dei beni culturali in ambiente digitale 
+.. _acquisizione:
+
+Acquisizione, circolazione e riuso delle riproduzioni dei beni culturali in ambiente digitale
 ==============================================================================================
 
 Il contesto normativo, che appare - come abbiamo visto - articolato e

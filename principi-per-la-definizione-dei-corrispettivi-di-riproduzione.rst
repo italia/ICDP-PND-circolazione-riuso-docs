@@ -35,7 +35,7 @@ proteggere le informazioni commerciali a carattere riservato,
 significa che le istituzioni culturali pubbliche possono generare utili
 mediante la previsione di corrispettivi di riproduzione sulla fornitura
 e/o sul riuso commerciale delle riproduzioni (nelle modalità individuate
-nel cap. 3), ma in misura “ragionevole”: dizione, quest’ultima, che
+nel cap. :ref:`acquisizione`), ma in misura “ragionevole”: dizione, quest’ultima, che
 necessita di essere di volta in volta contestualizzata [3]_.
 
 Le norme sin qui analizzate concedono evidentemente ampi margini di
@@ -141,9 +141,8 @@ risorse digitali di corredo per finalità di consultazione.
 
 .. [1] D.lgs. 200/2021.
 
-.. [2] .. rubric::  D.lgs. 36/2006, ed in particolare l'art. 7, comma
-      3- *bis*.
-      :name: d.lgs.-362006-ed-in-particolare-lart.-7-comma-3-bis.
+.. [2] D.lgs. 36/2006, ed in particolare l'art. 7, comma
+      3- *bis*; d.lgs.-362006-ed-in-particolare-lart.-7-comma-3-bis.
 
 .. [3] Alla data del presente documento sono in corso di stesura da parte
    di AgID le “Linee Guida recanti regole tecniche per l’attuazione del
