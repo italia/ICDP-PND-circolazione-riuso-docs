@@ -185,7 +185,6 @@ digitali della collezione epigrafica del museo già presenti nel
 database* offline *dell’istituto insieme al relativo corredo di metadati
 descrittivi previa citazione della provenienza.*
 
-*- Riproduzioni acquisite online -*
 
 .. _A8:
 

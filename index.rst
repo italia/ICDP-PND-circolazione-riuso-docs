@@ -12,8 +12,8 @@ riproduzioni dei beni culturali in ambiente digitale
 
 
 .. toctree::
-  :maxdepth: 3
   :numbered:
+  :maxdepth: 3
   :caption: Indice dei contenuti
 
   introduzione.rst

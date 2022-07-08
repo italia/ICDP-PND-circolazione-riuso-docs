@@ -19,7 +19,6 @@ culturali in pubblico dominio (**B1**).
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
-  :numbered:
 
   acquisizione-circolazione-e-riuso-delle-riproduzioni-dei-beni-culturali-in-ambiente-digitale/modalita-di-acquisizione-delle-riproduzioni.rst
   acquisizione-circolazione-e-riuso-delle-riproduzioni-dei-beni-culturali-in-ambiente-digitale/tipologie-duso-delle-riproduzioni-di-beni-culturali.rst

@@ -10,7 +10,6 @@ di riferimento essenziale per descrivere l’attuale stato dell’arte.
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
   :caption: Indice dei contenuti
 
   contesto-normativo/il-codice-dei-beni-culturali-e-del-paesaggio.rst

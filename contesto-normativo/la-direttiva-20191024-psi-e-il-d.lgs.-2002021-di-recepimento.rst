@@ -119,10 +119,4 @@ ancora valide.
    acquisizione di riproduzioni digitali pubblicate nei siti web degli
    istituti (cfr. par. :ref:`modalita_di_acquisizione_delle_riproduzioni`, :ref:`A8`).
 
-.. [5] Le Linee guida, redatte da AgID in ottemperanza all’art. 13 del
-   d.lgs. 36/2006, alla data attuale in consultazione pubblica, sono
-   disponibili all’indirizzo
-   https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs.36/2006,
-   alla data attuale in consultazione pubblica, sono disponibili
-   all’indirizzo
-   https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs.
+.. [5] Le Linee guida, redatte da AgID in ottemperanza all’art. 13 del d.lgs. 36/2006, alla data attuale in consultazione pubblica, sono disponibili all’indirizzo https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs

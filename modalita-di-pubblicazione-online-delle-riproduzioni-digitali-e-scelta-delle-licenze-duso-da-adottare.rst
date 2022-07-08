@@ -5,7 +5,7 @@ Modalità di pubblicazione online delle riproduzioni digitali e scelta delle lic
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
+  :caption: Indice dei contenuti
 
   modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare/cosa-sono-le-licenze.rst
   modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare/licenze-e-termini-duso.rst
