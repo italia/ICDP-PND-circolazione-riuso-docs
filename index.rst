@@ -20,7 +20,7 @@ riproduzioni dei beni culturali in ambiente digitale
   contesto-normativo.rst
   acquisizione-circolazione-e-riuso-delle-riproduzioni-dei-beni-culturali-in-ambiente-digitale.rst
   principi-per-il-riuso-delle-riproduzioni-digitali-del-patrimonio-culturale-e-dei-relativi-metadati.rst
-  modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare/index.rst
+  modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare.rst
   principi-per-la-definizione-dei-corrispettivi-di-riproduzione.rst
   bibliografia-essenziale.rst
   crediti.rst
