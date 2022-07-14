@@ -52,7 +52,7 @@ interni al luogo della cultura, tale da condizionarne la fruizione da
 parte del pubblico, può essere richiesto un canone di concessione legato
 all'uso temporaneo degli spazi (cfr. :ref:`A3`). Per quanto riguarda le
 riproduzioni effettuate attraverso drone, si rimanda alla specifica
-normativa di settore [1]_.
+normativa di settore [25]_.
 
 **Esempio:** *l’utente ha necessità di servirsi di dispositivi e
 attrezzature specifiche, quali* flash e *treppiedi per garantire
@@ -215,10 +215,10 @@ dell’immagine, anche soltanto per i fini non lucrativi ammessi dalla
 normativa vigente. Per le stesse ragioni va scoraggiata la
 sovraimpressione di filigrane sulle immagini, in coerenza con le
 raccomandazioni già espresse dalla Commissione Europea in data 27
-ottobre 2011 [2]_. Non può quindi che essere salutata con favore la
+ottobre 2011 [26]_. Non può quindi che essere salutata con favore la
 scelta di alcuni musei di rendere liberamente scaricabili immagini delle
 proprie opere a medio-alta definizione e prive di qualsiasi
-filigrana [3]_.
+filigrana [27]_.
 
 **Esempio:** *l’immagine è stata pubblicata nella collezione online
 dell’istituto. L’utente può scaricarla dal sito gratuitamente e ne può
@@ -227,7 +227,7 @@ fare ogni uso consentitogli dalla legge.*
 Alternativa 1: *l’utente ha la possibilità di accedere direttamente alle
 immagini in rete ma senza possibilità di eseguirne il *download*.
 Registrandosi nella piattaforma web dell’istituto egli attiva la
-possibilità di effettuare un* download *diretto* *delle immagini
+possibilità di effettuare un download *diretto* *delle immagini
 presenti nel sito* *a titolo gratuito oppure dietro pagamento di una
 tariffa per ciascuna immagine acquisita.*
 
@@ -310,7 +310,7 @@ A11. Riproduzioni ad altissima definizione di beni culturali
 
 Nel caso un soggetto pubblico o privato volesse realizzare copie ad
 altissima definizione di beni culturali pubblici da destinare al mercato
-degli NFT (*Non-Fungible Token*) [4]_ sarà necessario fare ricorso a
+degli NFT (*Non-Fungible Token*) [28]_ sarà necessario fare ricorso a
 strumenti di riproduzione professionali (:ref:`A3`) che possono richiedere
 forme di occupazione degli spazi interni all’istituto (:ref:`A4`), ma anche
 sottoscrivere uno specifico contratto d’uso con l’istituto che ha in
@@ -343,7 +343,7 @@ procedurale:
 
 |image1|
 
-.. [1] Per la disciplina d'uso dei droni attualmente vigente (Regolamento
+.. [25] Per la disciplina d'uso dei droni attualmente vigente (Regolamento
    ENAC UAS-IT del 04.01.2021), nessun drone, indipendentemente dal
    peso, può effettuare voli senza autorizzazione all'interno di aree
    archeologiche delimitate, che sono considerate tra le "aree
@@ -361,20 +361,20 @@ procedurale:
    disciplina ENAC. In ogni caso tutti gli apparecchi, indipendentemente
    dal peso, devono essere coperti da assicurazione.
 
-.. [2] Raccomandazione della Commissione Europea del 27 ottobre 2011 sulla
+.. [26] Raccomandazione della Commissione Europea del 27 ottobre 2011 sulla
    digitalizzazione e l’accessibilità in rete dei materiali culturali e
    sulla conservazione digitale: “Si dovrebbe evitare l'uso di filigrane
    intrusive o di altre misure di protezione visiva su copie di
    materiale di pubblico dominio come segno di proprietà o provenienza”
    (https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:283:0039:0045:IT:PDF).
 
-.. [3] Si può citare, a titolo esemplificativo, la Pinacoteca di Brera che
+.. [27] Si può citare, a titolo esemplificativo, la Pinacoteca di Brera che
    ha optato per la messa a disposizione del pubblico di riproduzioni di
    opere a risoluzione medio-alta pur circoscrivendo il riuso libero
    dell’immagine al solo scopo non commerciale
    (https://pinacotecabrera.org/collezioni/opere-on-line/).
 
-.. [4] Per una definizione di NFT cfr. R. Garavaglia, *Tutto sugli NFT*,
+.. [28] Per una definizione di NFT cfr. R. Garavaglia, *Tutto sugli NFT*,
    Hoepli, Milano 2022. NFT è l’acronimo di *Non-Fungibile Token* e
    “indica un gettone digitale impiegato per rappresentare un bene
    materiale o immateriale, la cui unicità e autenticità sono assicurate

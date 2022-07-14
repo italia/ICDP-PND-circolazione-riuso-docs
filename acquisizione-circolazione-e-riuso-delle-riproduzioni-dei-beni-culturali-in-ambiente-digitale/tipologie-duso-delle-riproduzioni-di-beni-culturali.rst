@@ -35,13 +35,13 @@ U1. Fini di studio, ricerca, libera manifestazione del pensiero o espressione cr
 Il Codice dei beni culturali stabilisce il principio della gratuità per
 le riproduzioni richieste o eseguite da privati per uso personale o per
 motivi di studio, ovvero da soggetti pubblici o privati per finalità di
-valorizzazione, purché attuate senza scopo di lucro [1]_; inoltre,
+valorizzazione, purché attuate senza scopo di lucro [29]_; inoltre,
 l‘art. 108, comma 3- *bis* liberalizza le riproduzioni dei beni
 culturali introducendo il principio della libera diffusione di immagini
 di beni culturali pubblici purché svolta senza scopo di lucro, per
 finalità di studio, ricerca, libera manifestazione del pensiero o
 espressione creativa, promozione della conoscenza del patrimonio
-culturale [2]_.
+culturale [30]_.
 
 Rientrano in queste casistiche le riproduzioni eseguite a scopo
 personale e di studio che non implicano in altri termini la divulgazione
@@ -52,7 +52,7 @@ attività di ricerca finalizzate all’espletamento di pratiche
 professionali a favore di terzi; in questo caso oggetto del lucro non è
 da considerarsi la riproduzione del bene culturale in sé, quanto il
 lavoro d’opera intellettuale oggetto della prestazione
-professionale [3]_. È egualmente da ritenersi libera la divulgazione
+professionale [31]_. È egualmente da ritenersi libera la divulgazione
 delle immagini per finalità di ricerca. Ciò si verifica, ad esempio,
 quando le immagini sono parte integrante di elaborati scientifici
 distribuiti in canali non commerciali (come tesi di laurea, master o
@@ -64,7 +64,7 @@ caratterizzati dall’accesso gratuito, oppure la proiezione temporanea di
 immagini nell’ambito di eventi pubblici o privati. In ogni caso il
 carattere commerciale proprio dei più comuni *social network* non
 permette di qualificare come attività lucrativa la semplice
-“condivisione” di immagini in simili piattaforme [4]_.
+“condivisione” di immagini in simili piattaforme [32]_.
 
 .. _U2:
 
@@ -86,7 +86,7 @@ pubblicazione editoriale delle riproduzioni di beni culturali. Ad
 esempio, il limite della gratuità per pubblicazioni inferiori alle 2000
 copie e ai 70 euro come prezzo di copertina, che deriva dal decreto
 ministeriale 8 aprile del 1994, è presente soprattutto nella realtà
-degli archivi e biblioteche [5]_, mentre non è oggi la regola nei musei.
+degli archivi e biblioteche [33]_, mentre non è oggi la regola nei musei.
 
 Si ravvisa pertanto la necessità di delineare prassi il più possibile
 uniformi e semplificate per gli usi editoriali delle riproduzioni dei
@@ -138,7 +138,7 @@ potranno essere introdotte dagli istituti, motivatamente, solo per
 prodotti editoriali venduti a un prezzo di copertina superiore a 70
 euro. In tali eccezioni, non potendo utilizzare l’etichetta BC Standard,
 i termini d’uso dovranno essere dettagliati dagli istituti interessati
-nella pagina web dedicata [6]_.
+nella pagina web dedicata [34]_.
 
 .. _U3:
 
@@ -158,7 +158,7 @@ U3. Usi connessi con l’impresa culturale e l’industria creativa
 L’utilizzo di riproduzioni di beni culturali in occasione di mostre o
 manifestazioni culturali da chiunque organizzate è gratuito,
 indipendentemente dal fatto che sia previsto o meno il pagamento di un
-biglietto di ingresso [7]_. In questi casi si richiede al soggetto
+biglietto di ingresso [35]_. In questi casi si richiede al soggetto
 organizzatore dell’evento l’invio all’istituto detentore del bene di una
 informativa sulla manifestazione mediante la compilazione di un *form*
 online, nella quale sarà riportato l’impegno a consegnare una copia
@@ -281,31 +281,31 @@ operatori economici privati possa atteggiarsi diversamente nel singolo
 caso concreto. Per quanto riguarda eventuali rapporti contrattuali che
 generino diritti di esclusiva verso un singolo operatore economico,
 questi debbono essere motivati, limitati nel tempo e soggetti alle forme
-di trasparenza previste dalla normativa [8]_.
+di trasparenza previste dalla normativa [36]_.
 
-.. [1] Art. 108, comma 3: “Nessun canone è dovuto per le riproduzioni
+.. [29] Art. 108, comma 3: “Nessun canone è dovuto per le riproduzioni
    richieste o eseguite da privati per uso personale o per motivi di
    studio, ovvero da soggetti pubblici o privati per finalità di
    valorizzazione, purché attuate senza scopo di lucro. I richiedenti
    sono comunque tenuti al rimborso delle spese sostenute
    dall'amministrazione concedente”.
 
-.. [2] Art. 108, comma 3- *bis*: “Sono in ogni caso libere le seguenti attività, svolte senza scopo di lucro, per finalità di studio, ricerca, libera manifestazione del pensiero o espressione creativa promozione della conoscenza del patrimonio culturale: 1) la riproduzione di beni culturali diversi dai beni archivistici sottoposti a restrizioni di consultabilità ai sensi del capo III del presente titolo, attuata nel rispetto delle disposizioni che tutelano il diritto di autore e con modalità che non comportino alcun contatto fisico con il bene, né l'esposizione dello stesso a sorgenti luminose, né, all'interno degli istituti della cultura, l'uso di stativi o treppiedi; 2) la divulgazione con qualsiasi mezzo delle immagini di beni culturali, legittimamente acquisite, in modo da non poter essere ulteriormente riprodotte a scopo di lucro”.
+.. [30] Art. 108, comma 3- *bis*: “Sono in ogni caso libere le seguenti attività, svolte senza scopo di lucro, per finalità di studio, ricerca, libera manifestazione del pensiero o espressione creativa promozione della conoscenza del patrimonio culturale: 1) la riproduzione di beni culturali diversi dai beni archivistici sottoposti a restrizioni di consultabilità ai sensi del capo III del presente titolo, attuata nel rispetto delle disposizioni che tutelano il diritto di autore e con modalità che non comportino alcun contatto fisico con il bene, né l'esposizione dello stesso a sorgenti luminose, né, all'interno degli istituti della cultura, l'uso di stativi o treppiedi; 2) la divulgazione con qualsiasi mezzo delle immagini di beni culturali, legittimamente acquisite, in modo da non poter essere ulteriormente riprodotte a scopo di lucro”.
 
-.. [3] Qualora l’amministrazione realizzi delle banche dati
+.. [31] Qualora l’amministrazione realizzi delle banche dati
    specificatamente indirizzate a soddisfare le esigenze dei
    professionisti (come ad esempio banche dati cartografiche, banche
    dati dei vincoli, ecc.) queste devono intendersi come servizio e
    quindi possono essere oggetto di un’adeguata valorizzazione
    economica.
 
-.. [4] Ciò ovviamente a condizione che le regole d’uso delle piattaforme
+.. [32] Ciò ovviamente a condizione che le regole d’uso delle piattaforme
    lascino in capo agli utenti la titolarità delle immagini pubblicate.
 
-.. [5] Circolari n. 33/2017 della Direzione generale Archivi e n. 14/2017
+.. [33] Circolari n. 33/2017 della Direzione generale Archivi e n. 14/2017
    della Direzione generale Biblioteche.
 
-.. [6] In prospettiva, la perdurante applicazione di diritti di
+.. [34] In prospettiva, la perdurante applicazione di diritti di
    riproduzione sui prodotti editoriali a medio termine potrebbe indurre
    l’editoria nazionale e internazionale a ricercare immagini di opere
    d’arte dai siti web di istituti culturali stranieri che già
@@ -313,10 +313,10 @@ di trasparenza previste dalla normativa [8]_.
    il rischio quindi di una progressiva marginalizzazione del patrimonio
    culturale del nostro Paese.
 
-.. [7] Il biglietto di ingresso a un‘esposizione in sé non sembra
+.. [35] Il biglietto di ingresso a un‘esposizione in sé non sembra
    sufficiente a qualificare l’iniziativa culturale come “lucrativa”.
 
-.. [8] Cfr. d.lgs. 36/2006, ed in particolare l’art. 11, e il decreto 14
+.. [36] Cfr. d.lgs. 36/2006, ed in particolare l’art. 11, e il decreto 14
    marzo 2013, n. 33.
 
 .. |image0| image:: ../media/image7.jpeg

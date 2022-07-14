@@ -16,7 +16,7 @@ Ulteriori principi utili alla determinazione di eventuali corrispettivi
 sulla fornitura e sul riuso delle riproduzioni di beni culturali
 detenuti da enti pubblici si rinvengono nella citata direttiva europea
 PSI e nel relativo decreto di recepimento nell’ordinamento giuridico
-italiano [1]_ che disciplina le modalità di riutilizzo dei documenti
+italiano [51]_ che disciplina le modalità di riutilizzo dei documenti
 contenenti dati pubblici. Una deroga al principio di gratuità ivi
 espressa è tuttavia ammessa per i contenuti prodotti e resi disponibili
 da biblioteche, comprese quelle universitarie, musei e archivi, in
@@ -31,12 +31,12 @@ produzione, riproduzione, diffusione, archiviazione dei dati,
 conservazione e gestione dei diritti e, ove applicabile, di
 anonimizzazione dei dati personali e delle misure adottate per
 proteggere le informazioni commerciali a carattere riservato,
-*maggiorati di un utile ragionevole sugli investimenti* [2]_. Ciò
+maggiorati di un utile ragionevole sugli investimenti [52]_. Ciò
 significa che le istituzioni culturali pubbliche possono generare utili
 mediante la previsione di corrispettivi di riproduzione sulla fornitura
 e/o sul riuso commerciale delle riproduzioni (nelle modalità individuate
 nel cap. :ref:`acquisizione`), ma in misura “ragionevole”: dizione, quest’ultima, che
-necessita di essere di volta in volta contestualizzata [3]_.
+necessita di essere di volta in volta contestualizzata [53]_.
 
 Le norme sin qui analizzate concedono evidentemente ampi margini di
 discrezionalità alle amministrazioni per la determinazione degli importi
@@ -80,9 +80,9 @@ interessi dei differenti segmenti di utenza (cfr. par. :ref:`modalita_di_acquisi
 
 Un elenco non esaustivo di possibili modelli per la determinazione delle
 tariffe è riportato nelle *Linee guida per la valorizzazione del
-patrimonio informativo pubblico* pubblicate dall’Agid nel 2014 [4]_,
+patrimonio informativo pubblico* pubblicate dall’Agid nel 2014 [54]_,
 riprese nel *Piano Triennale per la Digitalizzazione e l’Innovazione dei
-Musei* [5]_:
+Musei* [55]_:
 
 -  **Tariffa fissa**
 
@@ -139,22 +139,22 @@ livello di principio generale, gli istituti di tutela dovranno comunque
 garantire sempre e in ogni caso l’accesso gratuito ai dati e alle
 risorse digitali di corredo per finalità di consultazione.
 
-.. [1] D.lgs. 200/2021.
+.. [51] D.lgs. 200/2021.
 
-.. [2] D.lgs. 36/2006, ed in particolare l'art. 7, comma
+.. [52] D.lgs. 36/2006, ed in particolare l'art. 7, comma
       3- *bis*; d.lgs.-362006-ed-in-particolare-lart.-7-comma-3-bis.
 
-.. [3] Alla data del presente documento sono in corso di stesura da parte
+.. [53] Alla data del presente documento sono in corso di stesura da parte
    di AgID le “Linee Guida recanti regole tecniche per l’attuazione del
    decreto legislativo 24 gennaio 2006, n. 36 e s.m.i. relativo
    all’apertura dei dati e al riutilizzo dell’informazione del settore
    pubblico”, in attuazione del 12 del medesimo decreto legislativo.
 
-.. [4] Agenzia per l’Italia Digitale, *Linee guida nazionali per la
+.. [54] Agenzia per l’Italia Digitale, *Linee guida nazionali per la
    valorizzazione del patrimonio informativo pubblico*, pp. 86-88
    (https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf).
 
-.. [5] Ministero per i beni e le attività culturali, Direzione generale
+.. [55] Ministero per i beni e le attività culturali, Direzione generale
    Musei, *Piano Triennale per la Digitalizzazione e l’Innovazione dei
    Musei*
    (http://musei.beniculturali.it/wp-content/uploads/2019/08/Piano-Triennale-per-la-Digitalizzazione-e-l%E2%80%99Innovazione-dei-Musei.pdf).

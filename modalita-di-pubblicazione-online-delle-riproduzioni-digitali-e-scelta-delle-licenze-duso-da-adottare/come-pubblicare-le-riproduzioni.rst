@@ -44,14 +44,14 @@ richiamati nel presente documento:
 .. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
 
 Si suggerisce infine nella pubblicazione online delle riproduzioni
-digitali di utilizzare applicativi open source per la gestione e
+digitali di utilizzare applicativi *open source* per la gestione e
 l'esposizione di risorse digitali che favoriscano l’interoperabilità fra
 progetti diversi; nello specifico, si raccomanda l’utilizzo del
 protocollo denominato IIIF (*International Image Interoperability
-Framework*)  [1]_ che consente la condivisione delle immagini tra
+Framework*)  [51]_ che consente la condivisione delle immagini tra
 istituzioni diverse (cfr. `Linee guida per la redazione del piano di gestione dei dati`_).
 
-.. [1] Il framework IIIF è un insieme di specifiche per l’esposizione di
+.. [50] Il framework IIIF è un insieme di specifiche per l’esposizione di
    oggetti digitali di alta qualità su larga scala. Il progetto alla
    base open source è sostenuto da una comunità internazionale e da un
    consorzio di importanti istituzioni culturali ed è supportato da una

@@ -53,14 +53,14 @@ patrimonio informativo della pubblica amministrazione, è auspicabile
 siano rilasciati in modalità aperta, come chiaramente previsto dalle
 direttive europee e dal Codice dell’amministrazione digitale più volte
 richiamati; Nella determinazione dei corrispettivi di riproduzione per
-gli usi commerciali (merchandising, prodotti pubblicitari, stampe *fine
+gli usi commerciali (*merchandising*, prodotti pubblicitari, stampe *fine
 art* per il mercato, copie digitali certificate per il mercato, ecc.)
 saranno utilizzati i criteri previsti al par. 6. Nella riscossione dei
 corrispettivi dovranno essere privilegiate forme il più possibile
 automatizzate e semplici per gli utenti, rispettando le previsioni dei
 pagamenti elettronici della pubblica amministrazione (PagoPA).
 
-.. [1] Cfr. nota 4 :ref:`direttiva_2019_1024`.
+.. [43] Cfr. nota 4 :ref:`direttiva_2019_1024`.
 
 .. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
-.. [2] Cfr. `Linee guida per la redazione del piano di gestione dei dati`_, allegato tecnico n. 2 al PND.
+.. [44] Cfr. `Linee guida per la redazione del piano di gestione dei dati`_, allegato tecnico n. 2 al PND.

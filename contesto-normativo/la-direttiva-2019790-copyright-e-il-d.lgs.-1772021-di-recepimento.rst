@@ -14,7 +14,7 @@ importanti misure a favore degli istituti di tutela del patrimonio
 culturale (musei, archivi e biblioteche) [2]_ che possono essere
 riassunte come segue:
 
--  Eccezioni a favore della didattica e della ricerca Il nuovo
+-  Eccezioni a favore della didattica e della ricerca. Il nuovo
    articolo 70- *bis*, introdotto nella LdA, prevede l'allargamento del
    perimetro dell'attuale eccezione per il riassunto, la citazione, la
    riproduzione, la traduzione, l’adattamento e la comunicazione al
@@ -94,12 +94,12 @@ di opere fuori commercio è affidata alla Direzione generale Biblioteche
 e diritto d’autore alla cui disposizioni specifiche si rimanda per ogni
 ulteriore approfondimento in merito [3]_.
 
-.. [1] D.lgs. 177/2021 - Attuazione della direttiva (UE) 2019/790 del
+.. [12] D.lgs. 177/2021 - Attuazione della direttiva (UE) 2019/790 del
    Parlamento europeo e del Consiglio, del 17 aprile 2019, sul diritto
    d’autore e sui diritti connessi nel mercato unico digitale e che
    modifica le direttive 96/9/CE e 2001/29/CE.
 
-.. [2] Per “istituti di tutela del patrimonio culturale“ la LdA, alla luce
+.. [13] Per “istituti di tutela del patrimonio culturale“ la LdA, alla luce
    delle ultime novelle, intende le biblioteche, i musei, gli archivi,
    purché aperti al pubblico o accessibili al pubblico (art.
    70- *ter*, comma 3). Pare opportuno intendere estensivamente la
@@ -108,4 +108,4 @@ ulteriore approfondimento in merito [3]_.
    patrimonio culturale (nello specifico le Soprintendenze e gli
    Istituti centrali).
 
-.. [3] https://www.librari.beniculturali.it/it/diritto-dautore/.
+.. [14] https://www.librari.beniculturali.it/it/diritto-dautore/.
