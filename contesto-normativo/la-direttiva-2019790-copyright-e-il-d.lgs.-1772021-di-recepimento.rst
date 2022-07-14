@@ -1,6 +1,6 @@
 .. _direttiva_2019_790:
 
-La direttiva 2019/790 (Copyright) e il d.lgs. 177/2021 di recepimento [1]_
+La direttiva 2019/790 (Copyright) e il d.lgs. 177/2021 di recepimento [12]_
 ==========================================================================
 
 Obiettivo di fondo della direttiva europea 2019/790 sul diritto d'autore
@@ -11,7 +11,7 @@ al tempo stesso, un elevato livello di protezione dei diritti autoriali.
 
 Le modifiche alla LdA introdotte dalla direttiva europea prevedono
 importanti misure a favore degli istituti di tutela del patrimonio
-culturale (musei, archivi e biblioteche) [2]_ che possono essere
+culturale (musei, archivi e biblioteche) [13]_ che possono essere
 riassunte come segue:
 
 -  Eccezioni a favore della didattica e della ricerca. Il nuovo
@@ -92,7 +92,7 @@ riassunte come segue:
 In ambito ministeriale, la competenza in materia di diritto d’autore e
 di opere fuori commercio è affidata alla Direzione generale Biblioteche
 e diritto d’autore alla cui disposizioni specifiche si rimanda per ogni
-ulteriore approfondimento in merito [3]_.
+ulteriore approfondimento in merito [14]_.
 
 .. [12] D.lgs. 177/2021 - Attuazione della direttiva (UE) 2019/790 del
    Parlamento europeo e del Consiglio, del 17 aprile 2019, sul diritto

@@ -48,7 +48,7 @@ digitali di utilizzare applicativi *open source* per la gestione e
 l'esposizione di risorse digitali che favoriscano l’interoperabilità fra
 progetti diversi; nello specifico, si raccomanda l’utilizzo del
 protocollo denominato IIIF (*International Image Interoperability
-Framework*)  [51]_ che consente la condivisione delle immagini tra
+Framework*)  [50]_ che consente la condivisione delle immagini tra
 istituzioni diverse (cfr. `Linee guida per la redazione del piano di gestione dei dati`_).
 
 .. [50] Il framework IIIF è un insieme di specifiche per l’esposizione di

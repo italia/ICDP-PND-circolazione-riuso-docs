@@ -5,9 +5,9 @@ Relativamente alla compatibilità dei principi dell’*Open Access* con
 il quadro normativo nazionale occorre chiarire in primo luogo che nella
 ricezione in ambito nazionale della citata direttiva comunitaria
 2019/1024 (PSI) sono state esplicitamente richiamate le disposizioni
-dell’art. 107 e 108 del Codice dei beni culturali [1]_; pertanto mentre
+dell’art. 107 e 108 del Codice dei beni culturali [43]_; pertanto mentre
 i principi dell’Open Access si applicano integralmente alla
-pubblicazione di dati e metadati [2]_, la libera circolazione delle
+pubblicazione di dati e metadati [44]_, la libera circolazione delle
 riproduzioni dei beni culturali rimane invece consentita per tutti gli
 usi eccetto quelli lucrativi, per i quali, come è noto, è richiesto un
 corrispettivo di riproduzione. Tuttavia, la stessa direttiva europea

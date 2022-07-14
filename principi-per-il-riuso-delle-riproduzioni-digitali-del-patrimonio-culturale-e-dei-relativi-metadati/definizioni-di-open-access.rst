@@ -81,26 +81,26 @@ contenuti culturali, se fatti circolare senza il corredo informativo
 essenziale, saranno inevitabilmente esposti a rischi di impoverimento
 informativo e decontestualizzazione.
 
-.. [1] “Ciascun contributo ad accesso aperto deve soddisfare due requisiti: L’autore(i) ed il detentore(i) dei diritti relativi a tale contributo garantiscono a tutti gli utilizzatori il diritto d’accesso gratuito, irrevocabile ed universale e l’autorizzazione a riprodurlo, utilizzarlo, distribuirlo, trasmetterlo e mostrarlo pubblicamente e a produrre e distribuire lavori da esso derivati in ogni formato digitale per ogni scopo responsabile, soggetto all’attribuzione autentica della paternità intellettuale (le pratiche della comunità scientifica manterranno i meccanismi in uso per imporre una corretta attribuzione ed un uso responsabile dei contributi resi pubblici come avviene attualmente), nonché il diritto di riprodurne una quantità limitata di copie stampate per il proprio uso personale. 2. Una versione completa del contributo e di tutti i materiali che lo corredano, inclusa una copia della autorizzazione come sopra indicato, in un formato elettronico secondo uno standard appropriato, è depositata (e dunque pubblicata) in almeno un archivio in linea che impieghi standard tecnici adeguati (come le definizioni degli *Open Archives*) e che sia supportato e mantenuto da un’istituzione accademica, una società scientifica, un’agenzia governativa o ogni altra organizzazione riconosciuta che persegua gli obiettivi dell’accesso aperto, della distribuzione illimitata, dell’interoperabilità e dell’archiviazione a lungo termine” (https://openaccess.mpg.de/67682/BerlinDeclaration_it.pdf).
+.. [37] “Ciascun contributo ad accesso aperto deve soddisfare due requisiti: L’autore(i) ed il detentore(i) dei diritti relativi a tale contributo garantiscono a tutti gli utilizzatori il diritto d’accesso gratuito, irrevocabile ed universale e l’autorizzazione a riprodurlo, utilizzarlo, distribuirlo, trasmetterlo e mostrarlo pubblicamente e a produrre e distribuire lavori da esso derivati in ogni formato digitale per ogni scopo responsabile, soggetto all’attribuzione autentica della paternità intellettuale (le pratiche della comunità scientifica manterranno i meccanismi in uso per imporre una corretta attribuzione ed un uso responsabile dei contributi resi pubblici come avviene attualmente), nonché il diritto di riprodurne una quantità limitata di copie stampate per il proprio uso personale. 2. Una versione completa del contributo e di tutti i materiali che lo corredano, inclusa una copia della autorizzazione come sopra indicato, in un formato elettronico secondo uno standard appropriato, è depositata (e dunque pubblicata) in almeno un archivio in linea che impieghi standard tecnici adeguati (come le definizioni degli *Open Archives*) e che sia supportato e mantenuto da un’istituzione accademica, una società scientifica, un’agenzia governativa o ogni altra organizzazione riconosciuta che persegua gli obiettivi dell’accesso aperto, della distribuzione illimitata, dell’interoperabilità e dell’archiviazione a lungo termine” (https://openaccess.mpg.de/67682/BerlinDeclaration_it.pdf).
 
-.. [37] La Open Knowledge Foundation (https://okfn.org/) è una rete globale
+.. [38] La Open Knowledge Foundation (https://okfn.org/) è una rete globale
    senza scopo di lucro che promuove e condivide gratuitamente
    informazioni, inclusi contenuti e dati. È stata fondata da Rufus
    Pollock il 20 maggio 2004 e lanciata il 24 maggio 2004 a Cambridge,
    nel Regno Unito. È costituita in Inghilterra e Galles come società a
    responsabilità limitata.
 
-.. [38] Decreto legislativo 7 marzo 2005, n. 82 - Codice
+.. [39] Decreto legislativo 7 marzo 2005, n. 82 - Codice
    dell’amministrazione digitale.
 
-.. [39] Per una specifica trattazione sul tema generale dei dati aperti si
+.. [40] Per una specifica trattazione sul tema generale dei dati aperti si
    rimanda alle Linee guida per la redazione del piano di gestione dei
    dati, che contiene una Allegato di FAQ *per la pubblicazione dei dati
    aperti*.
 
-.. [40] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/.
+.. [41] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/.
 
-.. [41] ”18. Gli Stati membri dovrebbero garantire che, grazie ai loro
+.. [42] ”18. Gli Stati membri dovrebbero garantire che, grazie ai loro
    interventi, i dati derivanti da progetti di digitalizzazione
    finanziati con fondi pubblici diventino e restino reperibili,
    accessibili, interoperabili e riutilizzabili («principi FAIR»)
