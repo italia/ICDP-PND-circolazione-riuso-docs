@@ -7,12 +7,12 @@ aperto” si intende l’accesso libero e senza barriere al sapere
 scientifico, come dichiara nel 2002 la *Budapest Open Access
 Initiative*, i cui principi sono stati in seguito riaffermati dalla
 *Berlin Declaration on open access to knowledge in the Sciences and
-Humanities* [1]_. Accanto alle istanze di “accesso aperto” ai prodotti
+Humanities* [37]_. Accanto alle istanze di “accesso aperto” ai prodotti
 della ricerca, si sviluppa progressivamente negli anni il principio di
 “dato aperto” con l’obiettivo di massimizzare il valore dei contenuti
 culturali prodotti in ambito pubblico. Una definizione di dato o
 contenuto "aperto" è fornita inoltre dalla *Open Knowledge
-Foundation* [2]_: "Un dato o contenuto è aperto se qualcuno è libero
+Foundation* [38]_: "Un dato o contenuto è aperto se qualcuno è libero
 di usarlo, riutilizzarlo e ridistribuirlo - soggetto solo, al massimo,
 al requisito di attribuire e/o condividere allo stesso modo”.
 
@@ -27,14 +27,14 @@ ritorno di informazione fornito da chi riutilizza dati e contenuti,
 permettendo agli enti pubblici di migliorare la qualità del loro
 patrimonio di conoscenza (cfr. par. :ref:`direttiva_2019_1024`).
 
-È inoltre lo stesso Codice dell’Amministrazione Digitale [3]_ a
+È inoltre lo stesso Codice dell’Amministrazione Digitale [39]_ a
 enunciare il principio dell’*open by default*, in base al quale, in
 mancanza di ulteriori specifiche di utilizzo, i dati pubblicati in rete
 dalla pubblica amministrazione sono da considerarsi “aperti” *by
 default* (art. 52, comma 2), vale a dire “disponibili con una licenza o
 una previsione normativa che ne permetta l’utilizzo da parte di
 chiunque, anche per finalità commerciali, in formato disaggregato” (art.
-1) [4]_.
+1) [40]_.
 
 I principi cardine che inoltre devono essere adottati affinché si possa
 effettivamente parlare di *Open Access* sono i seguenti:
@@ -56,9 +56,9 @@ effettivamente parlare di *Open Access* sono i seguenti:
 La medesima impostazione si ritrova nella ormai nota definizione dei
 cosiddetti “principi FAIR”, secondo cui i contenuti della ricerca
 debbono essere rintracciabili (*Findable*), accessibili (*Accessible*),
-interoperabili (*Interoperable*) e riutilizzabili (*Re-usable*) [5]_,
+interoperabili (*Interoperable*) e riutilizzabili (*Re-usable*) [41]_,
 come peraltro è stato espressamente richiesto dalla citata
-raccomandazione (UE) 2021/1970 della Commissione Europea [6]_.
+raccomandazione (UE) 2021/1970 della Commissione Europea [42]_.
 
 Per le finalità dell’*Open Access* risulta infatti indispensabile
 garantire l‘accesso a risorse digitali di qualità, facilmente
@@ -98,7 +98,7 @@ informativo e decontestualizzazione.
    dati, che contiene una Allegato di FAQ *per la pubblicazione dei dati
    aperti*.
 
-.. [41] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/.
+.. [41] Principi FAIR: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/.
 
 .. [42] ”18. Gli Stati membri dovrebbero garantire che, grazie ai loro
    interventi, i dati derivanti da progetti di digitalizzazione

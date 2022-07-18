@@ -68,4 +68,4 @@ compreso quello di attribuzione espressa (BY). In questo modo l’opera
 entra nel pubblico dominio non già in seguito alla scadenza dei termini
 di protezione, bensì per scelta volontaria del suo autore.
 
-.. [45] https://creativecommons.it/chapterIT/
+.. [45] Creative commons: https://creativecommons.it/chapterIT/

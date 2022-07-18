@@ -302,7 +302,7 @@ matrice che segue:
    materia di riproduzione dei beni culturali di cui al decreto d.lgs.
    42/2004”.
 
-.. [17] https://www.wikimedia.it/wiki-loves-monuments/
+.. [17] Wiki loves monuments: https://www.wikimedia.it/wiki-loves-monuments/
 
 .. [18] ”La riproduzione dei monumenti e degli oggetti d'arte e di antichità
    di proprietà governativa sarà permessa con le norme e alle condizioni

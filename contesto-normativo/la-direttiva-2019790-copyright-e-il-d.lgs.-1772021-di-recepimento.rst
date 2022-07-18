@@ -108,4 +108,4 @@ ulteriore approfondimento in merito [14]_.
    patrimonio culturale (nello specifico le Soprintendenze e gli
    Istituti centrali).
 
-.. [14] https://www.librari.beniculturali.it/it/diritto-dautore/.
+.. [14] Diritto d'autore: https://www.librari.beniculturali.it/it/diritto-dautore/.

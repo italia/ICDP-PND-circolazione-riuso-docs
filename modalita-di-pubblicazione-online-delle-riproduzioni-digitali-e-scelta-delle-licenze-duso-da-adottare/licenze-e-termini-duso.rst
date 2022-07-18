@@ -115,7 +115,7 @@ etichetta.
    fronte al pubblico internazionale circa le corrette possibilità di
    riutilizzo delle immagini in pubblico dominio.
 
-.. [48] https://rightsstatements.org/page/1.0/?language=it
+.. [48] Rights statements: https://rightsstatements.org/page/1.0/?language=it
 
 .. [49] “L'uso di questo oggetto non è limitato dal diritto d'autore e/o dai
    diritti connessi. In una o più giurisdizioni è noto che leggi diverse

@@ -1,4 +1,4 @@
-Come riportare i termini d’uso delle immagini 
+Come riportare i termini d’uso delle immagini
 ==============================================
 
 L’etichetta BCS prevede:
@@ -17,10 +17,10 @@ termini che seguono:
 
 **Beni Culturali Standard (BCS)**
 
-dct:rights: http://rightsstatements.org/vocab/NoC-OKLR/1.0/
+dct:rights: `<http://rightsstatements.org/vocab/NoC-OKLR/1.0/>`_
 
 dct:license:
-https://w3id.org/italia/controlled-vocabulary/licences/BC_Standard_1.0
+`<https://w3id.org/italia/controlled-vocabulary/licences/BC_Standard_1.0>`_
 (URI esemplificativa, non ancora disponibile)
 
 Gli istituti culturali che intendono utilizzare questa etichetta
