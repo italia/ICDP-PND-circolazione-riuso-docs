@@ -22,6 +22,7 @@ riproduzioni dei beni culturali in ambiente digitale
   principi-per-il-riuso-delle-riproduzioni-digitali-del-patrimonio-culturale-e-dei-relativi-metadati.rst
   modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare.rst
   principi-per-la-definizione-dei-corrispettivi-di-riproduzione.rst
+  testo-etichetta-mic-standard.rst
   bibliografia-essenziale.rst
   crediti.rst
 
