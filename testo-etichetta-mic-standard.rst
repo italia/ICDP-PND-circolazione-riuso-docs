@@ -15,7 +15,7 @@ Puoi dunque condividere e modificare le riproduzioni dei beni culturali contrass
 
       - Per usi editoriali: questo può comprendere i casi riguardanti l’editoria scientifica in Open Acces (monografie o riviste), editoria in canali commerciali online o tradizionale e editoria didattica che hanno bisogno di inviare una informativa sull’eventuale pubblicazione (con le eccezioni specificate di seguito); quotidiani e riviste connesse che non hanno bisogno di informative.
 
-      - Per usi connessi con l’impresa culturale e l’industria creativa: mostre ed eventi culturali (ingresso gratuito o a pagamento) Format espositivi a pagamento, documentari, produzioni cinematografiche e programmi televisivi (da valutare in relazione alla finalità), app di terze parti commercializzate).
+      - Per usi connessi con l’impresa culturale e l’industria creativa: mostre ed eventi culturali (ingresso gratuito o a pagamento). Format espositivi a pagamento, documentari, produzioni cinematografiche e programmi televisivi (da valutare in relazione alla finalità), app di terze parti commercializzate.
 
   - Sono soggetti ad autorizzazione e a corrispettivi di riproduzione a favore dell’ente che ha in consegna il bene:
 
