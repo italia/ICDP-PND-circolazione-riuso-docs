@@ -1,11 +1,11 @@
-Etichetta “Beni culturali Standard” (BCS)
+Etichetta “Beni Culturali Standard” (BCS)
 =========================================
 
 L’etichetta Beni Culturali Standard (BCS) specifica i termini d’uso delle riproduzioni del patrimonio culturale italiano in pubblico dominio in conformità con quanto previsto dalla legislazione vigente.
 
 L’etichetta BCS è in linea con le dichiarazioni sui diritti del consorzio RightsStatements.org ed è conforme alla dichiarazione No-OKLR (No Copyright - Altre Restrizione Legali Note) il cui testo è disponibile all’indirizzo web
 
-https://rightsstatements.org/page/NoC-OKLR/1.0/https://rightsstatements.org/page/NoC-OKLR/1.0/
+http://rightsstatements.org/vocab/NoC-OKLR/1.0/​
 
 
 
@@ -26,7 +26,7 @@ https://rightsstatements.org/page/NoC-OKLR/1.0/https://rightsstatements.org/page
     - usi pubblicitari e commerciali (advertising e produzione di oggetti destinati al mercato);
     - creazione di app e servizi digitali a pagamento;
     - produzioni cinematografiche e programmi televisivi;
-    - produzione di format espositivi per la commercializzazione
+    - produzione di format espositivi per la commercializzazione;
     - la successiva commercializzazione della riproduzione stessa.
 
 4. Corrispondere all’ente titolare del bene gli eventuali costi richiesti a titolo di rimborso spese o di corrispettivo di riproduzione;
