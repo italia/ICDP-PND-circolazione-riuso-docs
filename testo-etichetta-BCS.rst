@@ -41,4 +41,4 @@ http://rightsstatements.org/vocab/NoC-OKLR/1.0/​
 
 8. Inviare una copia del prodotto realizzato (pubblicazioni, cataloghi, video, materiali pubblicitari, ecc.) all’ente titolare del bene culturale, al fine di condividere i contenuti realizzati;
 
-9. Indicare la denominazione del bene culturale riprodotto, citando le informazioni contenute nei metadati associati alla riproduzione (es. Titolo, Autore, Anno, Segnatura, ecc.), per promuovere la circolazione della conoscenza.
+9. Indicare la denominazione del bene culturale riprodotto, citando le informazioni contenute nei metadati associati alla riproduzione (es. Titolo, Autore, Anno, Segnatura, ecc.), per  promuovere la circolazione della conoscenza.
